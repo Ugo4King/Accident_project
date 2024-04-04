@@ -1,0 +1,11 @@
+
+# sources.yml
+version: 2
+
+sources:
+  - name: retail
+    database: data-zoom-camp-ugo # Put the project id!
+
+    tables:
+      - name: traffic_data
+      - name: vehicle_data
