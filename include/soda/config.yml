@@ -1,0 +1,29 @@
+# data_source retail:
+#   type: bigquery
+#   connection:
+#     account_info_json_path: /usr/local/airflow/include/gcp/service_account.json
+#     auth_scopes:
+#     - https://www.googleapis.com/auth/bigquery
+#     - https://www.googleapis.com/auth/cloud-platform
+#     - https://www.googleapis.com/auth/drive
+#     project_id: 'data_zoom_camp_ugo'
+#     dataset: retail
+
+
+
+data_source retail:
+  type: bigquery
+  connection:
+    account_info_json_path: /usr/local/airflow/include/gcp/service_account.json
+    auth_scopes:
+    - https://www.googleapis.com/auth/bigquery
+    - https://www.googleapis.com/auth/cloud-platform
+    - https://www.googleapis.com/auth/drive
+    project_id: 'data-zoom-camp-ugo'
+    dataset: retail
+    table: traffic_data
+
+soda_cloud:
+  host: cloud.soda.io
+  api_key_id: c66caf4b-4e1e-4f1f-86b5-759d5cebe0fe
+  api_key_secret: TEUCa3W8tyADpgXS3aqD8NxiBd22dKdNBugrNRqGTZFw-WP9Y1D8zQ

@@ -1,0 +1,63 @@
+checks:
+  - traffic_data:
+      schema:
+        fail:
+          when required column missing:
+            - 'Accident_Index'
+            - 'Accident_Severity'
+            - 'Date'
+            - 'Day_of_Week'
+            - 'Light_Conditions'
+            - 'Number_of_Casualties'
+            - 'Number_of_Vehicles'
+            - 'Pedestrian_Crossing-Human_Control'
+            - 'Pedestrian_Crossing-Physical_Facilities'
+            - 'Road_Surface_Conditions'
+            - 'Speed_limit'
+            - 'Time'
+            - 'Weather_Conditions'
+            - 'Year'
+          when wrong column type:
+            Accident_Index: string
+            Accident_Severity: string
+            Date: string
+            Day_of_Week: string
+            Light_Conditions: string
+            Number_of_Casualties: integer
+            Number_of_Vehicles: integer
+            Pedestrian_Crossing_Human_Control: float64
+            Pedestrian_Crossing_Physical_Facilities: float64
+            Road_Surface_Conditions: string
+            Speed_limit: integer
+            Time: string
+            Weather_Conditions: string
+            Year: integer
+
+  - vehicle_data:
+      schema:
+        fail:
+          when required column missing:
+            - 'Accident_Index'
+            - 'Age_Band_of_Driver'
+            - 'Age_of_Vehicle'
+            - 'Driver_Home_Area_Type'	
+            - 'make'	
+            - 'Sex_of_Driver'	
+            - 'Skidding_and_Overturning'
+            - 'X1st_Point_of_Impact'
+            - 'Year'
+          when wrong column type:
+            Accident_Index: string
+            Age_Band_of_Driver: string	
+            Age_of_Vehicle: float64	
+            Driver_Home_Area_Type: string	
+            make: string	
+            Sex_of_Driver: string	
+            Skidding_and_Overturning: string
+            X1st_Point_of_Impact: string	
+            Year: integer
+
+
+
+
+

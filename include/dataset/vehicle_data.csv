@@ -1,0 +1,2001 @@
+,Accident_Index,Age_Band_of_Driver,Age_of_Vehicle,Driver_Home_Area_Type,make,Sex_of_Driver,Skidding_and_Overturning,X1st_Point_of_Impact,Year_x
+0,200501BS00001,,,,,,,,
+1,200501BS00002,36 - 45,3.0,Data missing or out of range,DENNIS,Male,,Nearside,2005.0
+2,200501BS00003,26 - 35,5.0,Urban area,DENNIS,Male,,Nearside,2005.0
+3,200501BS00004,46 - 55,4.0,Urban area,NISSAN,Female,,Front,2005.0
+4,200501BS00005,46 - 55,10.0,Data missing or out of range,HONDA,Male,Skidded,Front,2005.0
+5,200501BS00006,46 - 55,1.0,Urban area,AUDI,Male,,Did not impact,2005.0
+6,200501BS00006,26 - 35,2.0,Urban area,PIAGGIO,Female,,Did not impact,2005.0
+7,200501BS00007,26 - 35,,Data missing or out of range,AUDI,Male,,Front,2005.0
+8,200501BS00007,36 - 45,4.0,Urban area,MERCEDES,Male,,Back,2005.0
+9,200501BS00009,66 - 75,16.0,Urban area,JAGUAR,Male,,Front,2005.0
+10,200501BS00010,,,,,,,,
+11,200501BS00011,,,,,,,,
+12,200501BS00012,26 - 35,6.0,Urban area,FORD,Male,,Front,2005.0
+13,200501BS00014,16 - 20,1.0,Data missing or out of range,PIAGGIO,Female,,Front,2005.0
+14,200501BS00015,,,,,,,,
+15,200501BS00016,26 - 35,2.0,Urban area,MCC,Male,,Front,2005.0
+16,200501BS00016,26 - 35,4.0,Urban area,MERCEDES,Male,,Did not impact,2005.0
+17,200501BS00017,36 - 45,2.0,Urban area,BMW,Male,,Front,2005.0
+18,200501BS00018,56 - 65,1.0,Urban area,VOLVO,Male,,Nearside,2005.0
+19,200501BS00019,,,,,,,,
+20,200501BS00020,26 - 35,7.0,Urban area,PEUGEOT,Male,,Offside,2005.0
+21,200501BS00021,26 - 35,1.0,Urban area,HONDA,Male,,Front,2005.0
+22,200501BS00021,26 - 35,5.0,Urban area,VAUXHALL,Male,,Offside,2005.0
+23,200501BS00022,26 - 35,1.0,Urban area,HONDA,Male,,Front,2005.0
+24,200501BS00023,Data missing or out of range,,Data missing or out of range,HONDA,Male,,Front,2005.0
+25,200501BS00024,,,,,,,,
+26,200501BS00025,,,,,,,,
+27,200501BS00028,36 - 45,4.0,Urban area,BMW,Male,,Offside,2005.0
+28,200501BS00029,56 - 65,1.0,Urban area,ROVER,Male,,Nearside,2005.0
+29,200501BS00031,,,,,,,,
+30,200501BS00032,,,,,,,,
+31,200501BS00033,26 - 35,3.0,Urban area,LOTUS,Male,,Back,2005.0
+32,200501BS70001,26 - 35,14.0,Urban area,HONDA,Female,,Front,2005.0
+33,200501BS70002,26 - 35,4.0,Urban area,SUZUKI,Female,,Front,2005.0
+34,200501BS70003,,,,,,,,
+35,200501BS70004,,,,,,,,
+36,200501BS70005,36 - 45,1.0,Urban area,PIAGGIO,Male,Skidded,Front,2005.0
+37,200501BS70006,,,,,,,,
+38,200501BS70007,46 - 55,9.0,Urban area,SAAB,Male,,Offside,2005.0
+39,200501BS70007,36 - 45,,Urban area,IVECO-FORD,Male,,Offside,2005.0
+40,200501BS70007,26 - 35,6.0,Urban area,HONDA,Female,,Offside,2005.0
+41,200501BS70008,Data missing or out of range,18.0,Data missing or out of range,FORD,Male,,Front,2005.0
+42,200501BS70009,,,,,,,,
+43,200501BS70010,,,,,,,,
+44,200501BS70011,,,,,,,,
+45,200501BS70012,,,,,,,,
+46,200501BS70013,36 - 45,3.0,Urban area,AUDI,Male,,Front,2005.0
+47,200501BS70014,36 - 45,3.0,Urban area,HONDA,Male,,Front,2005.0
+48,200501BS70016,,,,,,,,
+49,200501BS70017,36 - 45,3.0,Urban area,LONDON TAXIS INT,Male,,Back,2005.0
+50,200501BS70017,56 - 65,39.0,Data missing or out of range,LEYLAND AEC,Male,,Front,2005.0
+51,200501BS70018,66 - 75,1.0,Urban area,SUBARU,Male,,Nearside,2005.0
+52,200501BS70019,66 - 75,18.0,Urban area,HONDA,Male,,Front,2005.0
+53,200501BS70020,46 - 55,2.0,Data missing or out of range,PIAGGIO,Male,,Front,2005.0
+54,200501BS70021,26 - 35,5.0,Urban area,DENNIS,Male,,Did not impact,2005.0
+55,200501BS70023,,,,,,,,
+56,200501BS70025,46 - 55,10.0,Urban area,SUBARU,Female,,Front,2005.0
+57,200501BS70027,,,,,,,,
+58,200501BS70028,,,,,,,,
+59,200501BS70029,21 - 25,7.0,Urban area,KAWASAKI,Male,,Front,2005.0
+60,200501BS70030,56 - 65,8.0,Rural,MERCEDES,Male,,Nearside,2005.0
+61,200501BS70031,26 - 35,,Urban area,SAAB,Male,,Nearside,2005.0
+62,200501BS70032,,,,,,,,
+63,200501BS70033,,,,,,,,
+64,200501BS70034,,,,,,,,
+65,200501BS70036,Data missing or out of range,9.0,Urban area,ROVER,Male,,Front,2005.0
+66,200501BS70037,56 - 65,8.0,Urban area,MERCEDES,Female,,Front,2005.0
+67,200501BS70038,56 - 65,,Urban area,RENAULT,Male,,Offside,2005.0
+68,200501BS70039,Data missing or out of range,9.0,Urban area,HYUNDAI,Male,,Nearside,2005.0
+69,200501BS70040,,,,,,,,
+70,200501BS70041,,,,,,,,
+71,200501BS70042,,,,,,,,
+72,200501BS70043,26 - 35,2.0,Data missing or out of range,MERCEDES,Not known,,Nearside,2005.0
+73,200501BS70044,,,,,,,,
+74,200501BS70045,,,,,,,,
+75,200501BS70046,,,,,,,,
+76,200501BS70047,36 - 45,16.0,Urban area,SAAB,Male,,Front,2005.0
+77,200501BS70048,36 - 45,1.0,Urban area,PIAGGIO,Female,,Nearside,2005.0
+78,200501BS70048,36 - 45,4.0,Data missing or out of range,MERCEDES,Male,,Did not impact,2005.0
+79,200501BS70049,56 - 65,6.0,Urban area,LONDON TAXIS INT,Male,,Did not impact,2005.0
+80,200501BS70050,,,,,,,,
+81,200501BS70051,,,,,,,,
+82,200501BS70052,26 - 35,5.0,Urban area,ROVER,Female,,Front,2005.0
+83,200501BS70053,,,,,,,,
+84,200501BS70054,,,,,,,,
+85,200501BS70055,,,,,,,,
+86,200501BS70056,,,,,,,,
+87,200501BS70058,,,,,,,,
+88,200501BS70060,,,,,,,,
+89,200501BS70061,21 - 25,3.0,Urban area,NISSAN,Male,,Did not impact,2005.0
+90,200501BS70061,26 - 35,1.0,Urban area,PIAGGIO,Male,,Did not impact,2005.0
+91,200501BS70062,21 - 25,8.0,Urban area,YAMAHA,Male,,Front,2005.0
+92,200501BS70063,26 - 35,3.0,Data missing or out of range,PIAGGIO,Female,,Did not impact,2005.0
+93,200501BS70065,,,,,,,,
+94,200501BS70066,26 - 35,2.0,Urban area,PIAGGIO,Male,,Nearside,2005.0
+95,200501BS70067,,,,,,,,
+96,200501BS70068,21 - 25,3.0,Urban area,FIAT,Female,,Front,2005.0
+97,200501BS70069,,,,,,,,
+98,200501BS70070,36 - 45,2.0,Urban area,PEUGEOT,Male,,Front,2005.0
+99,200501BS70072,26 - 35,5.0,Data missing or out of range,HONDA,Male,,Front,2005.0
+100,200501BS70073,,,,,,,,
+101,200501BS70074,,,,,,,,
+102,200501BS70075,Data missing or out of range,2.0,Data missing or out of range,VOLVO,Male,,Did not impact,2005.0
+103,200501BS70076,46 - 55,4.0,Urban area,VOLVO,Male,,Front,2005.0
+104,200501BS70077,36 - 45,2.0,Urban area,LAND ROVER,Female,,Back,2005.0
+105,200501BS70077,26 - 35,,Urban area,VOLVO,Male,,Front,2005.0
+106,200501BS70078,,,,,,,,
+107,200501BS70079,36 - 45,3.0,Urban area,SUZUKI,Male,,Front,2005.0
+108,200501BS70079,36 - 45,2.0,Urban area,HONDA,Male,,Front,2005.0
+109,200501BS70080,26 - 35,5.0,Urban area,VOLKSWAGEN,Male,,Back,2005.0
+110,200501BS70082,,,,,,,,
+111,200501BS70083,21 - 25,1.0,Data missing or out of range,PEUGEOT,Male,,Nearside,2005.0
+112,200501BS70084,,,,,,,,
+113,200501BS70085,26 - 35,3.0,Urban area,SUZUKI,Male,,Did not impact,2005.0
+114,200501BS70085,36 - 45,2.0,Urban area,IVECO-FORD,Male,,Front,2005.0
+115,200501BS70086,36 - 45,15.0,Urban area,SAAB,Male,,Back,2005.0
+116,200501BS70087,46 - 55,12.0,Urban area,CITROEN,Male,,Front,2005.0
+117,200501BS70088,46 - 55,3.0,Urban area,DENNIS,Male,,Did not impact,2005.0
+118,200501BS70088,36 - 45,1.0,Urban area,BENTLEY,Male,,Front,2005.0
+119,200501BS70089,,,,,,,,
+120,200501BS70090,,,,,,,,
+121,200501BS70091,21 - 25,2.0,Urban area,VAUXHALL,Male,,Front,2005.0
+122,200501BS70092,46 - 55,7.0,Urban area,MERCEDES,Female,,Offside,2005.0
+123,200501BS70093,,,,,,,,
+124,200501BS70094,,,,,,,,
+125,200501BS70095,,,,,,,,
+126,200501BS70096,26 - 35,2.0,Urban area,SUZUKI,Male,,Front,2005.0
+127,200501BS70097,,,,,,,,
+128,200501BS70098,,,,,,,,
+129,200501BS70099,26 - 35,3.0,Urban area,DENNIS,Male,,Did not impact,2005.0
+130,200501BS70100,,,,,,,,
+131,200501BS70101,,,,,,,,
+132,200501BS70102,,,,,,,,
+133,200501BS70105,,,,,,,,
+134,200501BS70107,26 - 35,1.0,Urban area,PIAGGIO,Male,,Front,2005.0
+135,200501BS70108,,,,,,,,
+136,200501BS70109,,,,,,,,
+137,200501BS70110,16 - 20,1.0,Urban area,MINI,Male,,Front,2005.0
+138,200501BS70111,21 - 25,13.0,Urban area,HONDA,Male,Skidded,Front,2005.0
+139,200501BS70112,,,,,,,,
+140,200501BS70113,,,,,,,,
+141,200501BS70114,,,,,,,,
+142,200501BS70115,66 - 75,1.0,Urban area,BMW,Male,,Offside,2005.0
+143,200501BS70116,,,,,,,,
+144,200501BS70117,26 - 35,3.0,Urban area,DUCATI,Male,,Front,2005.0
+145,200501BS70118,,,,,,,,
+146,200501BS70119,,,,,,,,
+147,200501BS70121,36 - 45,3.0,Urban area,PIAGGIO,Male,,Front,2005.0
+148,200501BS70123,,,,,,,,
+149,200501BS70124,21 - 25,3.0,Urban area,FORD,Male,,Front,2005.0
+150,200501BS70125,Data missing or out of range,2.0,Urban area,MERCEDES,Male,,Front,2005.0
+151,200501BS70126,,,,,,,,
+152,200501BS70127,,,,,,,,
+153,200501BS70128,,,,,,,,
+154,200501BS70129,,,,,,,,
+155,200501BS70130,26 - 35,9.0,Urban area,MERCEDES,Male,,Front,2005.0
+156,200501BS70131,,,,,,,,
+157,200501BS70132,Data missing or out of range,6.0,Data missing or out of range,DAEWOO,Male,,Front,2005.0
+158,200501BS70133,,,,,,,,
+159,200501BS70134,,,,,,,,
+160,200501BS70135,,,,,,,,
+161,200501BS70136,,,,,,,,
+162,200501BS70137,,,,,,,,
+163,200501BS70140,36 - 45,6.0,Urban area,PIAGGIO,Female,,Front,2005.0
+164,200501BS70141,26 - 35,6.0,Urban area,HONDA,Male,Skidded,Front,2005.0
+165,200501BS70142,,,,,,,,
+166,200501BS70144,,,,,,,,
+167,200501BS70145,,,,,,,,
+168,200501BS70148,,,,,,,,
+169,200501BS70149,26 - 35,5.0,Small town,LONDON TAXIS INT,Male,,Front,2005.0
+170,200501BS70151,,,,,,,,
+171,200501BS70152,36 - 45,9.0,Urban area,PIAGGIO,Male,,Offside,2005.0
+172,200501BS70153,,,,,,,,
+173,200501BS70154,,,,,,,,
+174,200501BS70155,26 - 35,19.0,Urban area,KAWASAKI,Male,,Offside,2005.0
+175,200501BS70155,46 - 55,2.0,Urban area,LAND ROVER,Female,,Nearside,2005.0
+176,200501BS70156,26 - 35,5.0,Rural,KAWASAKI,Male,,Front,2005.0
+177,200501BS70157,,,,,,,,
+178,200501BS70158,Data missing or out of range,,Data missing or out of range,VAUXHALL,Male,,Offside,2005.0
+179,200501BS70160,,,,,,,,
+180,200501BS70161,,,,,,,,
+181,200501BS70163,16 - 20,2.0,Urban area,PIAGGIO,Male,,Nearside,2005.0
+182,200501BS70164,,,,,,,,
+183,200501BS70165,26 - 35,9.0,Urban area,MERCEDES,Female,,Offside,2005.0
+184,200501BS70166,36 - 45,6.0,Urban area,MERCEDES,Male,,Offside,2005.0
+185,200501BS70167,,,,,,,,
+186,200501BS70168,36 - 45,10.0,Urban area,FIAT,Female,,Front,2005.0
+187,200501BS70169,21 - 25,1.0,Urban area,VOLKSWAGEN,Male,,Nearside,2005.0
+188,200501BS70170,,,,,,,,
+189,200501BS70171,Data missing or out of range,4.0,Data missing or out of range,MERCEDES,Male,,Front,2005.0
+190,200501BS70172,,,,,,,,
+191,200501BS70174,,,,,,,,
+192,200501BS70175,46 - 55,5.0,Urban area,METROCAB,Male,,Nearside,2005.0
+193,200501BS70176,,,,,,,,
+194,200501BS70177,Data missing or out of range,7.0,Urban area,DAEWOO,Male,,Offside,2005.0
+195,200501BS70178,,,,,,,,
+196,200501BS70179,26 - 35,2.0,Urban area,YAMAHA,Male,,Front,2005.0
+197,200501BS70181,,,,,,,,
+198,200501BS70182,,,,,,,,
+199,200501BS70183,Data missing or out of range,4.0,Data missing or out of range,MERCEDES,Male,,Data missing or out of range,2005.0
+200,200501BS70185,Data missing or out of range,3.0,Urban area,FORD,Male,,Did not impact,2005.0
+201,200501BS70186,,,,,,,,
+202,200501BS70187,,,,,,,,
+203,200501BS70188,26 - 35,6.0,Urban area,LONDON TAXIS INT,Male,,Offside,2005.0
+204,200501BS70189,,,,,,,,
+205,200501BS70190,36 - 45,5.0,Urban area,MITSUBISHI,Male,,Front,2005.0
+206,200501BS70191,21 - 25,1.0,Urban area,VOLVO,Male,,Front,2005.0
+207,200501BS70192,26 - 35,8.0,Urban area,VOLKSWAGEN,Male,,Offside,2005.0
+208,200501BS70193,26 - 35,,Urban area,TOYOTA,Male,,Nearside,2005.0
+209,200501BS70194,36 - 45,1.0,Urban area,VOLVO,Male,,Front,2005.0
+210,200501BS70195,,,,,,,,
+211,200501BS70196,,,,,,,,
+212,200501BS70197,46 - 55,4.0,Urban area,PIAGGIO,Male,,Front,2005.0
+213,200501BS70198,26 - 35,16.0,Urban area,MERCEDES,Female,,Back,2005.0
+214,200501BS70199,,,,,,,,
+215,200501BS70200,,,,,,,,
+216,200501BS70201,,,,,,,,
+217,200501BS70202,Data missing or out of range,5.0,Urban area,NISSAN,Male,,Front,2005.0
+218,200501BS70203,,,,,,,,
+219,200501BS70204,26 - 35,4.0,Urban area,PIAGGIO,Male,,Front,2005.0
+220,200501BS70205,,,,,,,,
+221,200501BS70206,36 - 45,2.0,Urban area,GILERA,Male,,Nearside,2005.0
+222,200501BS70207,46 - 55,4.0,Urban area,LONDON TAXIS INT,Male,,Nearside,2005.0
+223,200501BS70209,46 - 55,,Urban area,LONDON TAXIS INT,Male,,Offside,2005.0
+224,200501BS70210,,,,,,,,
+225,200501BS70211,26 - 35,,Urban area,FORD,Female,,Front,2005.0
+226,200501BS70212,21 - 25,9.0,Urban area,SUZUKI,Male,,Offside,2005.0
+227,200501BS70214,,,,,,,,
+228,200501BS70215,36 - 45,5.0,Urban area,MERCEDES,Male,,Offside,2005.0
+229,200501BS70216,,,,,,,,
+230,200501BS70217,21 - 25,2.0,Urban area,HONDA,Male,,Did not impact,2005.0
+231,200501BS70218,,,,,,,,
+232,200501BS70219,36 - 45,4.0,Urban area,VOLVO,Male,,Did not impact,2005.0
+233,200501BS70220,21 - 25,39.0,Urban area,LEYLAND AEC,Male,,Did not impact,2005.0
+234,200501BS70221,,,,,,,,
+235,200501BS70223,26 - 35,,Urban area,VAUXHALL,Male,,Front,2005.0
+236,200501BS70224,,,,,,,,
+237,200501BS70225,,,,,,,,
+238,200501BS70226,,,,,,,,
+239,200501BS70227,,,,,,,,
+240,200501BS70228,56 - 65,7.0,Urban area,LONDON TAXIS INT,Male,,Did not impact,2005.0
+241,200501BS70228,Data missing or out of range,7.0,Data missing or out of range,HONDA,Male,,Did not impact,2005.0
+242,200501BS70229,36 - 45,4.0,Urban area,MERCEDES,Male,,Offside,2005.0
+243,200501BS70230,46 - 55,2.0,Urban area,RENAULT,Male,,Did not impact,2005.0
+244,200501BS70231,,,,,,,,
+245,200501BS70232,46 - 55,1.0,Urban area,BMW,Male,,Nearside,2005.0
+246,200501BS70233,,,,,,,,
+247,200501BS70234,46 - 55,11.0,Urban area,HYUNDAI,Male,,Nearside,2005.0
+248,200501BS70235,,,,,,,,
+249,200501BS70236,21 - 25,9.0,Urban area,YAMAHA,Male,,Front,2005.0
+250,200501BS70236,56 - 65,11.0,Urban area,PEUGEOT,Male,,Offside,2005.0
+251,200501BS70237,36 - 45,9.0,Urban area,YAMAHA,Male,,Back,2005.0
+252,200501BS70238,36 - 45,,Urban area,VAUXHALL,Male,,Offside,2005.0
+253,200501BS70239,36 - 45,5.0,Urban area,LONDON TAXIS INT,Male,,Nearside,2005.0
+254,200501BS70240,,,,,,,,
+255,200501BS70241,,,,,,,,
+256,200501BS70243,36 - 45,11.0,Urban area,MITSUBISHI,Male,,Back,2005.0
+257,200501BS70244,26 - 35,16.0,Urban area,NISSAN,Female,,Front,2005.0
+258,200501BS70245,,,,,,,,
+259,200501BS70247,,,,,,,,
+260,200501BS70248,,,,,,,,
+261,200501BS70249,46 - 55,6.0,Data missing or out of range,HONDA,Male,,Front,2005.0
+262,200501BS70249,26 - 35,2.0,Urban area,FIAT,Male,,Front,2005.0
+263,200501BS70250,46 - 55,4.0,Urban area,VOLVO,Male,,Did not impact,2005.0
+264,200501BS70251,46 - 55,3.0,Urban area,DENNIS,Female,,Front,2005.0
+265,200501BS70251,36 - 45,4.0,Urban area,KAWASAKI,Male,,Offside,2005.0
+266,200501BS70252,26 - 35,3.0,Urban area,APRILIA,Male,,Did not impact,2005.0
+267,200501BS70253,,,,,,,,
+268,200501BS70254,36 - 45,,Urban area,BMW,Female,,Offside,2005.0
+269,200501BS70255,26 - 35,3.0,Urban area,VOLVO,Male,,Did not impact,2005.0
+270,200501BS70256,,,,,,,,
+271,200501BS70258,Data missing or out of range,11.0,Data missing or out of range,PEUGEOT,Male,,Nearside,2005.0
+272,200501BS70259,,,,,,,,
+273,200501BS70260,26 - 35,10.0,Urban area,RENAULT,Male,,Offside,2005.0
+274,200501BS70261,,,,,,,,
+275,200501BS70262,36 - 45,2.0,Urban area,PIAGGIO,Male,,Front,2005.0
+276,200501BS70263,36 - 45,1.0,Urban area,HONDA,Male,,Back,2005.0
+277,200501BS70264,26 - 35,9.0,Urban area,FIAT,Male,,Nearside,2005.0
+278,200501BS70264,36 - 45,1.0,Data missing or out of range,HONDA,Male,,Front,2005.0
+279,200501BS70266,,,,,,,,
+280,200501BS70267,26 - 35,2.0,Urban area,HONDA,Female,,Front,2005.0
+281,200501BS70267,26 - 35,14.0,Urban area,PEUGEOT,Male,,Back,2005.0
+282,200501BS70268,46 - 55,1.0,Urban area,VOLVO,Male,,Nearside,2005.0
+283,200501BS70269,26 - 35,3.0,Urban area,PIAGGIO,Male,,Front,2005.0
+284,200501BS70269,56 - 65,3.0,Urban area,TOYOTA,Male,,Front,2005.0
+285,200501BS70270,,,,,,,,
+286,200501BS70271,,,,,,,,
+287,200501BS70272,,,,,,,,
+288,200501BS70273,46 - 55,10.0,Urban area,HONDA,Male,,Front,2005.0
+289,200501BS70274,,,,,,,,
+290,200501BS70275,26 - 35,1.0,Urban area,BMW,Female,,Back,2005.0
+291,200501BS70276,36 - 45,5.0,Urban area,DENNIS,Male,,Nearside,2005.0
+292,200501BS70277,,,,,,,,
+293,200501BS70278,,,,,,,,
+294,200501BS70279,,,,,,,,
+295,200501BS70280,,,,,,,,
+296,200501BS70281,,,,,,,,
+297,200501BS70282,,,,,,,,
+298,200501BS70283,21 - 25,1.0,Urban area,CITROEN,Male,,Back,2005.0
+299,200501BS70284,36 - 45,3.0,Urban area,MERCEDES,Male,,Did not impact,2005.0
+300,200501BS70285,,,,,,,,
+301,200501BS70286,,,,,,,,
+302,200501BS70287,,,,,,,,
+303,200501BS70288,,,,,,,,
+304,200501BS70289,26 - 35,5.0,Urban area,DENNIS,Male,,Front,2005.0
+305,200501BS70290,26 - 35,1.0,Urban area,BUELL,Male,,Nearside,2005.0
+306,200501BS70291,,,,,,,,
+307,200501BS70292,36 - 45,5.0,Urban area,OPEL,Male,,Front,2005.0
+308,200501BS70292,36 - 45,1.0,Data missing or out of range,TRIUMPH,Male,Skidded,Front,2005.0
+309,200501BS70293,,,,,,,,
+310,200501BS70294,46 - 55,5.0,Urban area,LONDON TAXIS INT,Male,,Back,2005.0
+311,200501BS70294,Data missing or out of range,10.0,Data missing or out of range,BMW,Female,,Front,2005.0
+312,200501BS70295,Data missing or out of range,2.0,Urban area,PORSCHE,Female,,Front,2005.0
+313,200501BS70296,56 - 65,3.0,Urban area,HONDA,Female,,Offside,2005.0
+314,200501BS70296,26 - 35,2.0,Urban area,MERCEDES,Female,,Nearside,2005.0
+315,200501BS70297,36 - 45,,Urban area,RENAULT,Male,,Front,2005.0
+316,200501BS70298,,,,,,,,
+317,200501BS70299,,,,,,,,
+318,200501BS70300,36 - 45,1.0,Urban area,TOYOTA,Female,,Back,2005.0
+319,200501BS70301,,,,,,,,
+320,200501BS70302,21 - 25,2.0,Urban area,PEUGEOT,Female,,Front,2005.0
+321,200501BS70303,,,,,,,,
+322,200501BS70304,,,,,,,,
+323,200501BS70305,,,,,,,,
+324,200501BS70306,26 - 35,18.0,Urban area,BMW,Female,,Did not impact,2005.0
+325,200501BS70307,21 - 25,7.0,Urban area,PIAGGIO,Female,,Offside,2005.0
+326,200501BS70308,26 - 35,4.0,Urban area,MITSUBISHI,Male,,Front,2005.0
+327,200501BS70309,46 - 55,1.0,Urban area,VOLVO,Male,,Did not impact,2005.0
+328,200501BS70310,21 - 25,6.0,Urban area,FIAT,Male,,Nearside,2005.0
+329,200501BS70311,26 - 35,,Data missing or out of range,RENAULT,Male,,Back,2005.0
+330,200501BS70312,46 - 55,4.0,Urban area,VOLKSWAGEN,Male,,Front,2005.0
+331,200501BS70313,56 - 65,4.0,Data missing or out of range,VOLVO,Male,,Did not impact,2005.0
+332,200501BS70314,36 - 45,3.0,Urban area,DENNIS,Male,,Did not impact,2005.0
+333,200501BS70315,,,,,,,,
+334,200501BS70317,,,,,,,,
+335,200501BS70318,,,,,,,,
+336,200501BS70319,,,,,,,,
+337,200501BS70321,,,,,,,,
+338,200501BS70322,21 - 25,2.0,Urban area,VAUXHALL,Male,,Front,2005.0
+339,200501BS70322,Data missing or out of range,7.0,Data missing or out of range,VOLVO,Male,,Back,2005.0
+340,200501BS70323,,,,,,,,
+341,200501BS70324,,,,,,,,
+342,200501BS70325,26 - 35,2.0,Urban area,FIAT,Female,,Front,2005.0
+343,200501BS70325,21 - 25,,Urban area,BMW,Male,,Back,2005.0
+344,200501BS70326,,,,,,,,
+345,200501BS70327,Data missing or out of range,,Data missing or out of range,VOLVO,Male,,Nearside,2005.0
+346,200501BS70328,36 - 45,3.0,Data missing or out of range,JEEP,Female,,Nearside,2005.0
+347,200501BS70329,,,,,,,,
+348,200501BS70330,,,,,,,,
+349,200501BS70331,,,,,,,,
+350,200501BS70332,Data missing or out of range,2.0,Urban area,MERCEDES,Female,,Front,2005.0
+351,200501BS70332,26 - 35,3.0,Data missing or out of range,RENAULT,Male,,Offside,2005.0
+352,200501BS70333,26 - 35,6.0,Urban area,PIAGGIO,Male,,Front,2005.0
+353,200501BS70333,46 - 55,2.0,Urban area,LONDON TAXIS INT,Male,,Nearside,2005.0
+354,200501BS70334,Data missing or out of range,12.0,Data missing or out of range,HONDA,Not known,,Front,2005.0
+355,200501BS70335,56 - 65,1.0,Urban area,VOLKSWAGEN,Female,,Front,2005.0
+356,200501BS70336,,,,,,,,
+357,200501BS70337,,,,,,,,
+358,200501BS70338,,,,,,,,
+359,200501BS70339,21 - 25,2.0,Urban area,RENAULT,Male,,Offside,2005.0
+360,200501BS70340,,,,,,,,
+361,200501BS70341,,,,,,,,
+362,200501BS70342,56 - 65,5.0,Urban area,VOLKSWAGEN,Female,,Nearside,2005.0
+363,200501BS70343,,,,,,,,
+364,200501BS70344,,,,,,,,
+365,200501BS70346,46 - 55,,Urban area,VOLVO,Male,,Offside,2005.0
+366,200501BS70346,26 - 35,5.0,Urban area,VESPA (DOUGLAS),Male,,Front,2005.0
+367,200501BS70346,Data missing or out of range,7.0,Urban area,VOLKSWAGEN,Female,,Offside,2005.0
+368,200501BS70347,,,,,,,,
+369,200501BS70348,,,,,,,,
+370,200501BS70349,,,,,,,,
+371,200501BS70350,26 - 35,11.0,Data missing or out of range,YAMAHA,Male,,Front,2005.0
+372,200501BS70351,,,,,,,,
+373,200501BS70352,46 - 55,27.0,Urban area,LAVERDA,Male,,Offside,2005.0
+374,200501BS70352,21 - 25,1.0,Urban area,VOLKSWAGEN,Male,,Front,2005.0
+375,200501BS70353,,,,,,,,
+376,200501BS70354,36 - 45,2.0,Urban area,AUDI,Male,,Front,2005.0
+377,200501BS70355,36 - 45,1.0,Urban area,RENAULT,Male,,Nearside,2005.0
+378,200501BS70356,36 - 45,2.0,Data missing or out of range,VOLVO,Male,,Front,2005.0
+379,200501BS70357,,,,,,,,
+380,200501BS70358,26 - 35,7.0,Urban area,ASTON MARTIN,Male,,Front,2005.0
+381,200501BS70359,Data missing or out of range,11.0,Data missing or out of range,VAUXHALL,Male,,Nearside,2005.0
+382,200501BS70360,,,,,,,,
+383,200501BS70361,Data missing or out of range,1.0,Urban area,LONDON TAXIS INT,Male,,Nearside,2005.0
+384,200501BS70362,16 - 20,3.0,Urban area,PEUGEOT,Female,,Offside,2005.0
+385,200501BS70362,Data missing or out of range,3.0,Data missing or out of range,CITROEN,Male,,Nearside,2005.0
+386,200501BS70363,36 - 45,10.0,Small town,IVECO-FORD,Male,,Offside,2005.0
+387,200501BS70364,21 - 25,2.0,Urban area,BMW,Male,,Offside,2005.0
+388,200501BS70365,,,,,,,,
+389,200501BS70366,36 - 45,7.0,Urban area,VAUXHALL,Female,,Back,2005.0
+390,200501BS70367,36 - 45,3.0,Urban area,HONDA,Male,,Offside,2005.0
+391,200501BS70369,,,,,,,,
+392,200501BS70370,46 - 55,1.0,Urban area,TOYOTA,Male,,Back,2005.0
+393,200501BS70370,36 - 45,,Urban area,FORD,Male,,Front,2005.0
+394,200501BS70371,26 - 35,,Urban area,APRILIA,Male,,Nearside,2005.0
+395,200501BS70372,26 - 35,,Urban area,LONDON TAXIS INT,Male,,Nearside,2005.0
+396,200501BS70373,,,,,,,,
+397,200501BS70374,46 - 55,3.0,Urban area,DENNIS,Male,,Nearside,2005.0
+398,200501BS70375,16 - 20,1.0,Urban area,MINI,Male,,Front,2005.0
+399,200501BS70376,36 - 45,,Data missing or out of range,SMART,Female,Skidded and overturned,Nearside,2005.0
+400,200501BS70377,,,,,,,,
+401,200501BS70378,26 - 35,,Urban area,HONDA,Male,,Front,2005.0
+402,200501BS70378,Data missing or out of range,,Data missing or out of range,VAUXHALL,Male,,Nearside,2005.0
+403,200501BS70379,36 - 45,1.0,Urban area,HONDA,Male,Skidded,Front,2005.0
+404,200501BS70380,36 - 45,4.0,Urban area,TOYOTA,Female,,Front,2005.0
+405,200501BS70381,,,,,,,,
+406,200501BS70382,36 - 45,3.0,Urban area,KAWASAKI,Male,,Did not impact,2005.0
+407,200501BS70383,,,,,,,,
+408,200501BS70384,,,,,,,,
+409,200501BS70385,26 - 35,,Urban area,HONDA,Male,,Offside,2005.0
+410,200501BS70385,36 - 45,12.0,Urban area,VOLKSWAGEN,Male,,Nearside,2005.0
+411,200501BS70386,,,,,,,,
+412,200501BS70387,46 - 55,,Data missing or out of range,MERCEDES,Male,,Offside,2005.0
+413,200501BS70388,46 - 55,1.0,Urban area,MERCEDES,Male,,Offside,2005.0
+414,200501BS70389,,,,,,,,
+415,200501BS70391,46 - 55,1.0,Urban area,VOLVO,Male,,Did not impact,2005.0
+416,200501BS70392,46 - 55,4.0,Urban area,LONDON TAXIS INT,Male,,Back,2005.0
+417,200501BS70392,26 - 35,,Urban area,JAGUAR,Male,,Front,2005.0
+418,200501BS70393,,,,,,,,
+419,200501BS70394,56 - 65,3.0,Urban area,VOLVO,Female,,Offside,2005.0
+420,200501BS70395,,,,,,,,
+421,200501BS70396,,,,,,,,
+422,200501BS70398,,,,,,,,
+423,200501BS70399,,,,,,,,
+424,200501BS70400,,,,,,,,
+425,200501BS70401,,,,,,,,
+426,200501BS70402,,,,,,,,
+427,200501BS70403,Data missing or out of range,5.0,Data missing or out of range,PEUGEOT,Female,,Nearside,2005.0
+428,200501BS70404,,,,,,,,
+429,200501BS70405,,,,,,,,
+430,200501BS70406,,,,,,,,
+431,200501BS70407,Data missing or out of range,6.0,Urban area,FORD,Male,,Back,2005.0
+432,200501BS70408,,,,,,,,
+433,200501BS70409,,,,,,,,
+434,200501BS70410,,,,,,,,
+435,200501BS70411,,,,,,,,
+436,200501BS70412,,,,,,,,
+437,200501BS70413,,,,,,,,
+438,200501BS70414,,,,,,,,
+439,200501BS70415,,,,,,,,
+440,200501BS70416,26 - 35,4.0,Urban area,VOLVO,Male,,Did not impact,2005.0
+441,200501BS70417,,,,,,,,
+442,200501BS70419,26 - 35,2.0,Urban area,HONDA,Male,,Front,2005.0
+443,200501BS70420,,,,,,,,
+444,200501BS70421,36 - 45,7.0,Data missing or out of range,KAWASAKI,Male,,Nearside,2005.0
+445,200501BS70422,26 - 35,5.0,Urban area,ALFA ROMEO,Male,,Offside,2005.0
+446,200501BS70423,,,,,,,,
+447,200501BS70424,,,,,,,,
+448,200501BS70425,21 - 25,4.0,Data missing or out of range,RENAULT,Female,,Front,2005.0
+449,200501BS70425,26 - 35,3.0,Urban area,PIAGGIO,Female,,Offside,2005.0
+450,200501BS70426,,,,,,,,
+451,200501BS70427,36 - 45,12.0,Data missing or out of range,KAWASAKI,Male,,Front,2005.0
+452,200501BS70429,,,,,,,,
+453,200501BS70430,Data missing or out of range,6.0,Urban area,RENAULT,Female,,Back,2005.0
+454,200501BS70430,36 - 45,1.0,Urban area,MERCEDES,Male,,Front,2005.0
+455,200501BS70431,21 - 25,19.0,Urban area,VOLKSWAGEN,Male,,Front,2005.0
+456,200501BS70432,,,,,,,,
+457,200501BS70433,26 - 35,13.0,Urban area,SUZUKI,Male,,Front,2005.0
+458,200501BS70434,46 - 55,2.0,Data missing or out of range,MG,Male,,Back,2005.0
+459,200501BS70435,26 - 35,13.0,Urban area,HONDA,Male,,Offside,2005.0
+460,200501BS70436,36 - 45,5.0,Urban area,BMW,Male,,Front,2005.0
+461,200501BS70437,36 - 45,,Urban area,PIAGGIO,Male,,Offside,2005.0
+462,200501BS70438,26 - 35,4.0,Data missing or out of range,PORSCHE,Male,,Offside,2005.0
+463,200501BS70439,26 - 35,2.0,Urban area,HONDA,Male,,Front,2005.0
+464,200501BS70439,26 - 35,7.0,Urban area,HONDA,Male,,Nearside,2005.0
+465,200501BS70440,,,,,,,,
+466,200501BS70441,,,,,,,,
+467,200501BS70442,,,,,,,,
+468,200501BS70444,16 - 20,2.0,Urban area,VOLKSWAGEN,Male,,Nearside,2005.0
+469,200501BS70445,36 - 45,15.0,Urban area,VOLVO,Male,,Offside,2005.0
+470,200501BS70446,,,,,,,,
+471,200501BS70447,,,,,,,,
+472,200501BS70448,,,,,,,,
+473,200501BS70449,36 - 45,,Urban area,MERCEDES,Male,,Front,2005.0
+474,200501BS70450,46 - 55,7.0,Urban area,KAWASAKI,Male,,Did not impact,2005.0
+475,200501BS70451,,,,,,,,
+476,200501BS70452,,,,,,,,
+477,200501BS70453,,,,,,,,
+478,200501BS70456,46 - 55,5.0,Data missing or out of range,MAN,Male,,Offside,2005.0
+479,200501BS70456,36 - 45,1.0,Urban area,VAUXHALL,Male,,Nearside,2005.0
+480,200501BS70458,,,,,,,,
+481,200501BS70459,,,,,,,,
+482,200501BS70460,,,,,,,,
+483,200501BS70461,26 - 35,4.0,Urban area,TVR,Male,,Front,2005.0
+484,200501BS70462,,,,,,,,
+485,200501BS70463,,,,,,,,
+486,200501BS70464,,,,,,,,
+487,200501BS70465,36 - 45,3.0,Data missing or out of range,DENNIS,Male,,Front,2005.0
+488,200501BS70466,66 - 75,3.0,Urban area,RENAULT,Male,,Front,2005.0
+489,200501BS70467,21 - 25,3.0,Urban area,PIAGGIO,Female,,Did not impact,2005.0
+490,200501BS70468,,,,,,,,
+491,200501BS70469,,,,,,,,
+492,200501BS70470,26 - 35,20.0,Urban area,MOTO GUZZI,Male,,Front,2005.0
+493,200501BS70471,56 - 65,1.0,Data missing or out of range,TOYOTA,Male,,Back,2005.0
+494,200501BS70471,36 - 45,9.0,Urban area,VOLVO,Female,,Back,2005.0
+495,200501BS70472,21 - 25,5.0,Urban area,BMW,Male,,Did not impact,2005.0
+496,200501BS70473,16 - 20,3.0,Data missing or out of range,HONDA,Male,,Front,2005.0
+497,200501BS70473,36 - 45,3.0,Urban area,BMW,Male,,Offside,2005.0
+498,200501BS70474,,,,,,,,
+499,200501BS70475,21 - 25,,Urban area,VOLKSWAGEN,Male,,Front,2005.0
+500,200501BS70479,,,,,,,,
+501,200501BS70480,,,,,,,,
+502,200501BS70481,26 - 35,,Urban area,APRILIA,Male,,Front,2005.0
+503,200501BS70482,46 - 55,,Urban area,HYUNDAI,Female,,Front,2005.0
+504,200501BS70483,26 - 35,6.0,Urban area,LONDON TAXIS INT,Male,,Front,2005.0
+505,200501BS70483,26 - 35,1.0,Urban area,VOLVO,Male,,Front,2005.0
+506,200501BS70484,,,,,,,,
+507,200501BS70485,,,,,,,,
+508,200501BS70486,,,,,,,,
+509,200501BS70487,,,,,,,,
+510,200501BS70488,,,,,,,,
+511,200501BS70489,46 - 55,3.0,Urban area,MERCEDES,Male,,Did not impact,2005.0
+512,200501BS70489,36 - 45,3.0,Urban area,HONDA,Male,,Offside,2005.0
+513,200501BS70490,16 - 20,5.0,Data missing or out of range,APRILIA,Male,,Offside,2005.0
+514,200501BS70491,,,,,,,,
+515,200501BS70493,,,,,,,,
+516,200501BS70494,,,,,,,,
+517,200501BS70495,21 - 25,,Data missing or out of range,FIAT,Male,,Front,2005.0
+518,200501BS70496,21 - 25,,Urban area,PIAGGIO,Male,,Nearside,2005.0
+519,200501BS70497,26 - 35,3.0,Urban area,PIAGGIO,Male,,Front,2005.0
+520,200501BS70498,Data missing or out of range,4.0,Data missing or out of range,VOLVO,Female,,Nearside,2005.0
+521,200501BS70499,,,,,,,,
+522,200501BS70500,,,,,,,,
+523,200501BS70501,26 - 35,3.0,Urban area,MERCEDES,Male,,Back,2005.0
+524,200501BS70501,Data missing or out of range,1.0,Urban area,FORD,Female,,Front,2005.0
+525,200501BS70502,,,,,,,,
+526,200501BS70503,21 - 25,6.0,Data missing or out of range,FIAT,Male,,Nearside,2005.0
+527,200501BS70504,36 - 45,,Urban area,HONDA,Male,Skidded,Front,2005.0
+528,200501BS70505,,,,,,,,
+529,200501BS70506,36 - 45,2.0,Rural,MERCEDES,Female,,Front,2005.0
+530,200501BS70507,26 - 35,6.0,Urban area,DAEWOO,Female,,Back,2005.0
+531,200501BS70508,46 - 55,,Urban area,VOLKSWAGEN,Male,,Offside,2005.0
+532,200501BS70509,,,,,,,,
+533,200501BS70510,,,,,,,,
+534,200501BS70511,,,,,,,,
+535,200501BS70513,36 - 45,8.0,Urban area,LAND ROVER,Male,,Nearside,2005.0
+536,200501BS70514,Data missing or out of range,12.0,Data missing or out of range,HONDA,Not known,,Offside,2005.0
+537,200501BS70515,26 - 35,2.0,Urban area,PEUGEOT,Female,,Nearside,2005.0
+538,200501BS70516,,,,,,,,
+539,200501BS70517,36 - 45,1.0,Urban area,PIAGGIO,Male,,Back,2005.0
+540,200501BS70518,56 - 65,6.0,Urban area,PIAGGIO,Male,,Offside,2005.0
+541,200501BS70519,,,,,,,,
+542,200501BS70521,,,,,,,,
+543,200501BS70523,26 - 35,3.0,Urban area,YAMAHA,Male,,Did not impact,2005.0
+544,200501BS70524,56 - 65,8.0,Urban area,HYUNDAI,Male,,Front,2005.0
+545,200501BS70525,,,,,,,,
+546,200501BS70526,36 - 45,2.0,Data missing or out of range,HONDA,Male,,Back,2005.0
+547,200501BS70527,26 - 35,,Urban area,SUZUKI,Male,,Offside,2005.0
+548,200501BS70528,,,,,,,,
+549,200501BS70529,21 - 25,4.0,Urban area,VOLVO,Male,,Nearside,2005.0
+550,200501BS70530,36 - 45,,Urban area,VOLVO,Male,,Front,2005.0
+551,200501BS70531,36 - 45,15.0,Data missing or out of range,SUZUKI,Male,,Offside,2005.0
+552,200501BS70531,Data missing or out of range,4.0,Data missing or out of range,LONDON TAXIS INT,Male,,Offside,2005.0
+553,200501BS70532,,,,,,,,
+554,200501BS70533,,,,,,,,
+555,200501BS70534,36 - 45,9.0,Urban area,MERCEDES,Female,,Front,2005.0
+556,200501BS70535,,,,,,,,
+557,200501BS70536,,,,,,,,
+558,200501BS70537,,,,,,,,
+559,200501BS70538,26 - 35,,Urban area,ALEXANDER DENNIS,Male,,Nearside,2005.0
+560,200501BS70539,,,,,,,,
+561,200501BS70540,36 - 45,3.0,Urban area,IVECO-FORD,Male,,Nearside,2005.0
+562,200501BS70541,,,,,,,,
+563,200501BS70542,16 - 20,2.0,Urban area,BMW,Female,,Offside,2005.0
+564,200501BS70543,,,,,,,,
+565,200501BS70545,36 - 45,4.0,Urban area,BMW,Female,,Offside,2005.0
+566,200501BS70545,46 - 55,4.0,Urban area,HONDA,Female,,Nearside,2005.0
+567,200501BS70546,26 - 35,3.0,Urban area,VOLVO,Male,,Front,2005.0
+568,200501BS70547,46 - 55,3.0,Urban area,TOYOTA,Female,,Nearside,2005.0
+569,200501BS70548,21 - 25,14.0,Urban area,KAWASAKI,Male,,Offside,2005.0
+570,200501BS70548,Data missing or out of range,9.0,Urban area,ROVER,Male,,Front,2005.0
+571,200501BS70549,,,,,,,,
+572,200501BS70550,,,,,,,,
+573,200501BS70551,,,,,,,,
+574,200501BS70552,,,,,,,,
+575,200501BS70554,Data missing or out of range,,Urban area,MITSUBISHI,Female,,Front,2005.0
+576,200501BS70554,Data missing or out of range,19.0,Urban area,BMW,Female,,Front,2005.0
+577,200501BS70555,Data missing or out of range,8.0,Data missing or out of range,DENNIS,Not known,,Front,2005.0
+578,200501BS70556,56 - 65,3.0,Urban area,VOLKSWAGEN,Male,,Front,2005.0
+579,200501BS70557,Data missing or out of range,10.0,Urban area,BMW,Male,,Front,2005.0
+580,200501BS70558,,,,,,,,
+581,200501BS70559,36 - 45,2.0,Urban area,FIAT,Male,,Front,2005.0
+582,200501BS70561,56 - 65,4.0,Small town,NISSAN,Male,,Front,2005.0
+583,200501BS70562,,,,,,,,
+584,200501BS70564,,,,,,,,
+585,200501BS70565,36 - 45,1.0,Urban area,BMW,Female,,Offside,2005.0
+586,200501BS70565,Over 75,,Data missing or out of range,DAIHATSU,Female,,Nearside,2005.0
+587,200501BS70565,Data missing or out of range,6.0,Data missing or out of range,PEUGEOT,Female,,Offside,2005.0
+588,200501BS70566,26 - 35,11.0,Urban area,SUZUKI,Female,,Offside,2005.0
+589,200501BS70566,36 - 45,5.0,Urban area,DUCATI,Male,,Front,2005.0
+590,200501BS70567,,,,,,,,
+591,200501BS70568,66 - 75,4.0,Urban area,FIAT,Male,,Front,2005.0
+592,200501BS70569,,,,,,,,
+593,200501BS70570,36 - 45,2.0,Urban area,MERCEDES,Female,,Front,2005.0
+594,200501BS70571,,,,,,,,
+595,200501BS70572,16 - 20,3.0,Urban area,APRILIA,Male,,Front,2005.0
+596,200501BS70574,36 - 45,,Rural,MERCEDES,Male,,Front,2005.0
+597,200501BS70575,46 - 55,5.0,Urban area,HYUNDAI,Male,,Front,2005.0
+598,200501BS70576,26 - 35,2.0,Urban area,CITROEN,Female,,Front,2005.0
+599,200501BS70577,,,,,,,,
+600,200501BS70578,Data missing or out of range,6.0,Data missing or out of range,HONDA,Male,,Front,2005.0
+601,200501BS70579,,,,,,,,
+602,200501BS70580,Data missing or out of range,3.0,Data missing or out of range,VOLVO,Not known,,Nearside,2005.0
+603,200501BS70581,Data missing or out of range,3.0,Data missing or out of range,ROVER,Not known,,Back,2005.0
+604,200501BS70581,Data missing or out of range,4.0,Data missing or out of range,VOLKSWAGEN,Not known,,Back,2005.0
+605,200501BS70582,36 - 45,8.0,Urban area,SEAT,Female,,Nearside,2005.0
+606,200501BS70583,36 - 45,,Urban area,HONDA,Female,,Offside,2005.0
+607,200501BS70585,16 - 20,5.0,Urban area,MERCEDES,Male,,Nearside,2005.0
+608,200501BS70587,,,,,,,,
+609,200501BS70588,,,,,,,,
+610,200501BS70589,,,,,,,,
+611,200501BS70590,26 - 35,1.0,Urban area,PIAGGIO,Female,Skidded,Nearside,2005.0
+612,200501BS70591,36 - 45,12.0,Urban area,PEUGEOT,Female,,Offside,2005.0
+613,200501BS70592,26 - 35,8.0,Urban area,PIAGGIO,Male,,Front,2005.0
+614,200501BS70593,56 - 65,5.0,Urban area,BMW,Male,,Back,2005.0
+615,200501BS70594,36 - 45,11.0,Rural,MERCEDES,Male,,Front,2005.0
+616,200501BS70595,,,,,,,,
+617,200501BS70596,16 - 20,2.0,Urban area,VOLKSWAGEN,Male,,Offside,2005.0
+618,200501BS70597,,,,,,,,
+619,200501BS70598,36 - 45,5.0,Urban area,LONDON TAXIS INT,Male,,Front,2005.0
+620,200501BS70599,,,,,,,,
+621,200501BS70600,,,,,,,,
+622,200501BS70601,26 - 35,,Urban area,VOLKSWAGEN,Male,Skidded,Nearside,2005.0
+623,200501BS70601,56 - 65,,Urban area,MERCEDES,Male,Skidded,Front,2005.0
+624,200501BS70602,46 - 55,11.0,Urban area,BMW,Male,,Did not impact,2005.0
+625,200501BS70603,,,,,,,,
+626,200501BS70604,,,,,,,,
+627,200501BS70605,21 - 25,6.0,Urban area,MERCEDES,Male,,Front,2005.0
+628,200501BS70606,,,,,,,,
+629,200501BS70607,36 - 45,5.0,Urban area,KIA,Male,,Front,2005.0
+630,200501BS70608,56 - 65,,Urban area,VAUXHALL,Male,,Nearside,2005.0
+631,200501BS70609,,,,,,,,
+632,200501BS70610,36 - 45,7.0,Urban area,FORD,Male,,Back,2005.0
+633,200501BS70610,26 - 35,3.0,Urban area,TOYOTA,Female,,Back,2005.0
+634,200501BS70610,46 - 55,1.0,Urban area,MITSUBISHI,Male,,Back,2005.0
+635,200501BS70611,,,,,,,,
+636,200501BS70613,26 - 35,2.0,Urban area,PIAGGIO,Female,,Front,2005.0
+637,200501BS70614,,,,,,,,
+638,200501BS70615,,,,,,,,
+639,200501BS70616,26 - 35,,Urban area,YAMAHA,Female,Skidded,Did not impact,2005.0
+640,200501BS70617,,,,,,,,
+641,200501BS70618,26 - 35,4.0,Urban area,MERCEDES,Male,,Back,2005.0
+642,200501BS70619,21 - 25,,Urban area,ALFA ROMEO,Male,,Front,2005.0
+643,200501BS70620,,,,,,,,
+644,200501BS70621,,,,,,,,
+645,200501BS70622,,,,,,,,
+646,200501BS70623,,,,,,,,
+647,200501BS70624,,,,,,,,
+648,200501BS70625,66 - 75,7.0,Urban area,LONDON TAXIS INT,Male,,Offside,2005.0
+649,200501BS70626,26 - 35,1.0,Data missing or out of range,VOLVO,Male,,Did not impact,2005.0
+650,200501BS70627,,,,,,,,
+651,200501BS70628,26 - 35,1.0,Urban area,CHRYSLER,Male,,Offside,2005.0
+652,200501BS70629,21 - 25,7.0,Urban area,DENNIS,Male,,Did not impact,2005.0
+653,200501BS70630,,,,,,,,
+654,200501BS70631,,,,,,,,
+655,200501BS70632,,,,,,,,
+656,200501BS70633,,,,,,,,
+657,200501BS70634,,,,,,,,
+658,200501BS70635,26 - 35,5.0,Urban area,FIAT,Female,,Front,2005.0
+659,200501BS70637,Data missing or out of range,3.0,Data missing or out of range,VAUXHALL,Not known,,Nearside,2005.0
+660,200501BS70638,26 - 35,3.0,Urban area,SUZUKI,Male,,Front,2005.0
+661,200501BS70638,26 - 35,1.0,Urban area,CITROEN,Male,,Offside,2005.0
+662,200501BS70640,,,,,,,,
+663,200501BS70641,Data missing or out of range,1.0,Urban area,VOLVO,Male,,Front,2005.0
+664,200501BS70642,,,,,,,,
+665,200501BS70643,26 - 35,2.0,Urban area,PIAGGIO,Female,,Nearside,2005.0
+666,200501BS70643,36 - 45,4.0,Urban area,LONDON TAXIS INT,Male,,Front,2005.0
+667,200501BS70644,Data missing or out of range,1.0,Data missing or out of range,SMART,Female,,Offside,2005.0
+668,200501BS70645,36 - 45,7.0,Urban area,SAAB,Female,,Front,2005.0
+669,200501BS70646,,,,,,,,
+670,200501BS70647,,,,,,,,
+671,200501BS70648,26 - 35,,Urban area,VOLVO,Male,,Front,2005.0
+672,200501BS70649,,,,,,,,
+673,200501BS70650,,,,,,,,
+674,200501BS70651,26 - 35,,Urban area,MERCEDES,Male,,Front,2005.0
+675,200501BS70652,46 - 55,6.0,Urban area,TOYOTA,Male,,Front,2005.0
+676,200501BS70652,26 - 35,,Urban area,YAMAHA,Female,,Front,2005.0
+677,200501BS70653,36 - 45,4.0,Urban area,LONDON TAXIS INT,Male,,Offside,2005.0
+678,200501BS70654,21 - 25,10.0,Urban area,SUZUKI,Female,,Back,2005.0
+679,200501BS70655,,,,,,,,
+680,200501BS70656,21 - 25,,Urban area,HONDA,Female,,Offside,2005.0
+681,200501BS70656,26 - 35,,Urban area,MERCEDES,Male,,Front,2005.0
+682,200501BS70657,,,,,,,,
+683,200501BS70658,56 - 65,2.0,Urban area,PEUGEOT,Male,,Front,2005.0
+684,200501BS70658,Data missing or out of range,,Urban area,LAND ROVER,Female,,Offside,2005.0
+685,200501BS70659,26 - 35,7.0,Urban area,PIAGGIO,Male,,Front,2005.0
+686,200501BS70659,Data missing or out of range,15.0,Urban area,MERCEDES,Male,,Offside,2005.0
+687,200501BS70660,46 - 55,1.0,Data missing or out of range,JAGUAR,Male,,Back,2005.0
+688,200501BS70661,,,,,,,,
+689,200501BS70662,26 - 35,10.0,Data missing or out of range,AUDI,Male,,Offside,2005.0
+690,200501BS70663,,,,,,,,
+691,200501BS70664,26 - 35,1.0,Urban area,BMW,Male,,Nearside,2005.0
+692,200501BS70666,,,,,,,,
+693,200501BS70667,,,,,,,,
+694,200501BS70668,,,,,,,,
+695,200501BS70669,26 - 35,14.0,Urban area,HONDA,Male,,Front,2005.0
+696,200501BS70670,26 - 35,,Urban area,SMART,Female,,Offside,2005.0
+697,200501BS70670,46 - 55,1.0,Rural,MAN,Male,,Front,2005.0
+698,200501BS70671,,,,,,,,
+699,200501BS70672,26 - 35,4.0,Urban area,MERCEDES,Male,,Back,2005.0
+700,200501BS70673,,,,,,,,
+701,200501BS70674,,,,,,,,
+702,200501BS70675,,,,,,,,
+703,200501BS70676,21 - 25,,Urban area,PIAGGIO,Male,Skidded,Did not impact,2005.0
+704,200501BS70677,36 - 45,6.0,Urban area,FODEN,Male,,Offside,2005.0
+705,200501BS70678,46 - 55,4.0,Urban area,SUBARU,Female,,Nearside,2005.0
+706,200501BS70679,,,,,,,,
+707,200501BS70680,Data missing or out of range,1.0,Data missing or out of range,DAF,Male,,Did not impact,2005.0
+708,200501BS70681,Data missing or out of range,5.0,Urban area,CITROEN,Male,,Front,2005.0
+709,200501BS70683,26 - 35,,Data missing or out of range,RENAULT,Male,,Front,2005.0
+710,200501BS70684,36 - 45,1.0,Urban area,CATERHAM,Male,,Nearside,2005.0
+711,200501BS70685,,,,,,,,
+712,200501BS70687,36 - 45,11.0,Urban area,VOLVO,Male,,Offside,2005.0
+713,200501BS70688,26 - 35,4.0,Urban area,FORD,Male,,Nearside,2005.0
+714,200501BS70689,26 - 35,1.0,Urban area,BMW,Male,,Front,2005.0
+715,200501BS70689,Data missing or out of range,3.0,Urban area,CITROEN,Male,,Offside,2005.0
+716,200501BS70690,26 - 35,5.0,Data missing or out of range,MERCEDES,Female,,Nearside,2005.0
+717,200501BS70690,46 - 55,,Urban area,FORD,Male,,Offside,2005.0
+718,200501BS70691,Data missing or out of range,2.0,Urban area,LONDON TAXIS INT,Male,,Nearside,2005.0
+719,200501BS70692,36 - 45,5.0,Urban area,FORD,Male,,Front,2005.0
+720,200501BS70693,,,,,,,,
+721,200501BS70694,,,,,,,,
+722,200501BS70697,21 - 25,2.0,Urban area,PIAGGIO,Male,,Nearside,2005.0
+723,200501BS70697,Data missing or out of range,10.0,Urban area,ROVER,Female,,Offside,2005.0
+724,200501BS70698,,,,,,,,
+725,200501BS70699,26 - 35,7.0,Data missing or out of range,HONDA,Male,,Did not impact,2005.0
+726,200501BS70700,,,,,,,,
+727,200501BS70701,26 - 35,8.0,Urban area,ROVER,Male,Skidded,Front,2005.0
+728,200501BS70702,,,,,,,,
+729,200501BS70703,46 - 55,1.0,Urban area,VOLVO,Male,,Did not impact,2005.0
+730,200501BS70704,46 - 55,6.0,Urban area,HONDA,Male,,Nearside,2005.0
+731,200501BS70705,,,,,,,,
+732,200501BS70708,,,,,,,,
+733,200501BS70709,,,,,,,,
+734,200501BS70710,36 - 45,2.0,Urban area,SCANIA,Male,,Front,2005.0
+735,200501BS70712,,,,,,,,
+736,200501BS70713,36 - 45,1.0,Urban area,PIAGGIO,Female,,Front,2005.0
+737,200501BS70714,46 - 55,5.0,Urban area,RENAULT,Female,,Offside,2005.0
+738,200501BS70715,46 - 55,1.0,Urban area,TOYOTA,Male,,Front,2005.0
+739,200501BS70716,66 - 75,,Urban area,MERCEDES,Male,,Offside,2005.0
+740,200501BS70716,26 - 35,4.0,Urban area,PIAGGIO,Female,,Front,2005.0
+741,200501BS70717,,,,,,,,
+742,200501BS70718,36 - 45,5.0,Data missing or out of range,VOLVO,Male,,Did not impact,2005.0
+743,200501BS70719,16 - 20,2.0,Urban area,PEUGEOT,Male,Skidded,Front,2005.0
+744,200501BS70721,,,,,,,,
+745,200501BS70722,46 - 55,2.0,Urban area,LONDON TAXIS INT,Male,,Nearside,2005.0
+746,200501BS70723,16 - 20,,Urban area,MINI,Female,,Front,2005.0
+747,200501BS70724,46 - 55,2.0,Urban area,VOLKSWAGEN,Male,,Offside,2005.0
+748,200501BS70725,,,,,,,,
+749,200501BS70726,,,,,,,,
+750,200501BS70727,,,,,,,,
+751,200501BS70728,Data missing or out of range,9.0,Urban area,ROVER,Male,,Front,2005.0
+752,200501BS70730,26 - 35,1.0,Data missing or out of range,FORD,Male,,Back,2005.0
+753,200501BS70731,,,,,,,,
+754,200501BS70732,36 - 45,,Data missing or out of range,ALEXANDER DENNIS,Male,,Front,2005.0
+755,200501BS70733,36 - 45,2.0,Urban area,JAGUAR,Male,,Back,2005.0
+756,200501BS70734,46 - 55,1.0,Urban area,VOLVO,Male,,Nearside,2005.0
+757,200501BS70735,,,,,,,,
+758,200501BS70736,,,,,,,,
+759,200501BS70737,26 - 35,2.0,Urban area,FORD,Male,,Offside,2005.0
+760,200501BS70737,26 - 35,3.0,Urban area,SUZUKI,Male,,Nearside,2005.0
+761,200501BS70738,26 - 35,,Data missing or out of range,LONDON TAXIS INT,Male,,Front,2005.0
+762,200501BS70739,Data missing or out of range,3.0,Urban area,TOYOTA,Male,,Front,2005.0
+763,200501BS70740,,,,,,,,
+764,200501BS70741,Data missing or out of range,3.0,Data missing or out of range,SKODA,Not known,,Offside,2005.0
+765,200501BS70742,36 - 45,2.0,Urban area,PIAGGIO,Male,,Front,2005.0
+766,200501BS70743,36 - 45,2.0,Urban area,LONDON TAXIS INT,Male,,Front,2005.0
+767,200501BS70744,21 - 25,1.0,Urban area,HONDA,Male,,Front,2005.0
+768,200501BS70745,,,,,,,,
+769,200501BS70747,,,,,,,,
+770,200501BS70748,46 - 55,4.0,Urban area,TOYOTA,Male,,Nearside,2005.0
+771,200501BS70748,16 - 20,,Urban area,APRILIA,Male,,Offside,2005.0
+772,200501BS70749,Data missing or out of range,,Urban area,HONDA,Male,,Front,2005.0
+773,200501BS70751,Data missing or out of range,1.0,Rural,TOYOTA,Male,,Front,2005.0
+774,200501BS70752,36 - 45,10.0,Urban area,SAAB,Male,,Back,2005.0
+775,200501BS70755,,,,,,,,
+776,200501BS70756,,,,,,,,
+777,200501BS70757,46 - 55,2.0,Urban area,CITROEN,Female,,Front,2005.0
+778,200501BS70758,,,,,,,,
+779,200501BS70759,,,,,,,,
+780,200501BS70760,56 - 65,1.0,Urban area,RENAULT,Male,,Back,2005.0
+781,200501BS70761,,,,,,,,
+782,200501BS70762,Data missing or out of range,7.0,Urban area,DAEWOO,Male,,Offside,2005.0
+783,200501BS70763,,,,,,,,
+784,200501BS70764,Over 75,2.0,Urban area,SKODA,Male,,Front,2005.0
+785,200501BS70765,,,,,,,,
+786,200501BS70766,,,,,,,,
+787,200501BS70767,21 - 25,,Urban area,PEUGEOT,Male,,Offside,2005.0
+788,200501BS70768,,,,,,,,
+789,200501BS70769,21 - 25,3.0,Urban area,TOYOTA,Male,Skidded,Front,2005.0
+790,200501BS70770,,,,,,,,
+791,200501BS70771,,,,,,,,
+792,200501BS70772,,,,,,,,
+793,200501BS70773,,,,,,,,
+794,200501BS70774,,,,,,,,
+795,200501BS70775,,,,,,,,
+796,200501BS70776,56 - 65,4.0,Urban area,VOLKSWAGEN,Male,,Front,2005.0
+797,200501BS70777,,,,,,,,
+798,200501BS70779,56 - 65,7.0,Urban area,VOLKSWAGEN,Male,,Back,2005.0
+799,200501BS70780,46 - 55,9.0,Urban area,FIAT,Male,,Front,2005.0
+800,200501BS70780,26 - 35,5.0,Urban area,NISSAN,Male,Skidded,Front,2005.0
+801,200501BS70782,,,,,,,,
+802,200501BS70783,46 - 55,6.0,Urban area,MERCEDES,Male,,Front,2005.0
+803,200501BS70784,,,,,,,,
+804,200501BS70785,46 - 55,1.0,Urban area,TOYOTA,Female,,Nearside,2005.0
+805,200501BS70786,,,,,,,,
+806,200501BS70787,46 - 55,,Data missing or out of range,VOLVO,Male,,Nearside,2005.0
+807,200501BS70789,Data missing or out of range,1.0,Urban area,PEUGEOT,Male,Skidded,Front,2005.0
+808,200501BS70793,16 - 20,12.0,Urban area,VAUXHALL,Female,,Front,2005.0
+809,200501BS79011,,,,,,,,
+810,200501BS79054,,,,,,,,
+811,200501BS79097,,,,,,,,
+812,200501CP00001,26 - 35,7.0,Urban area,NISSAN,Male,,Front,2005.0
+813,200501CP00002,,,,,,,,
+814,200501CP00003,,,,,,,,
+815,200501CP00004,Data missing or out of range,1.0,Data missing or out of range,VOLKSWAGEN,Not known,,Front,2005.0
+816,200501CP00005,,,,,,,,
+817,200501CP00006,36 - 45,7.0,Urban area,LONDON TAXIS INT,Male,,Front,2005.0
+818,200501CP00008,26 - 35,6.0,Urban area,VOLKSWAGEN,Male,,Offside,2005.0
+819,200501CP00009,46 - 55,1.0,Data missing or out of range,VAUXHALL,Male,,Front,2005.0
+820,200501CP00010,36 - 45,3.0,Urban area,TOYOTA,Male,,Nearside,2005.0
+821,200501CP00011,26 - 35,5.0,Urban area,FIAT,Female,,Back,2005.0
+822,200501CP00012,36 - 45,4.0,Urban area,DENNIS,Male,,Front,2005.0
+823,200501CP00013,,,,,,,,
+824,200501CP00014,26 - 35,2.0,Urban area,BMW,Female,,Front,2005.0
+825,200501CP00015,26 - 35,3.0,Urban area,PIAGGIO,Male,,Back,2005.0
+826,200501CP00016,,,,,,,,
+827,200501CP00017,26 - 35,2.0,Urban area,HONDA,Male,,Offside,2005.0
+828,200501CP00018,,,,,,,,
+829,200501CP00019,,,,,,,,
+830,200501CP00020,36 - 45,4.0,Urban area,VOLVO,Male,,Nearside,2005.0
+831,200501CP00021,,,,,,,,
+832,200501CP00022,36 - 45,2.0,Data missing or out of range,BMW,Male,Skidded,Front,2005.0
+833,200501CP00023,,,,,,,,
+834,200501CP00024,Data missing or out of range,6.0,Data missing or out of range,DENNIS,Male,,Nearside,2005.0
+835,200501CP00025,,,,,,,,
+836,200501CP00026,56 - 65,3.0,Urban area,METROCAB,Male,Skidded,Front,2005.0
+837,200501CP00027,26 - 35,4.0,Urban area,HONDA,Male,,Nearside,2005.0
+838,200501CP00028,26 - 35,2.0,Data missing or out of range,PIAGGIO,Male,,Front,2005.0
+839,200501CP00029,Data missing or out of range,2.0,Urban area,BMW,Male,,Back,2005.0
+840,200501CP00030,,,,,,,,
+841,200501CP00031,,,,,,,,
+842,200501CP00032,Data missing or out of range,6.0,Urban area,LONDON TAXIS INT,Male,,Nearside,2005.0
+843,200501CP00033,,,,,,,,
+844,200501CP00034,21 - 25,6.0,Urban area,HONDA,Male,,Front,2005.0
+845,200501CP00035,66 - 75,15.0,Urban area,AUDI,Male,,Offside,2005.0
+846,200501CP00036,,,,,,,,
+847,200501CP00037,36 - 45,2.0,Urban area,DAEWOO,Male,,Nearside,2005.0
+848,200501CP00038,,,,,,,,
+849,200501CP00039,26 - 35,1.0,Urban area,TRANSBUS INT,Male,,Front,2005.0
+850,200501CP00039,36 - 45,2.0,Urban area,MERCEDES,Female,,Offside,2005.0
+851,200501CP00040,,,,,,,,
+852,200501CP00041,,,,,,,,
+853,200501CP00043,26 - 35,1.0,Urban area,TAIWAN GOLDEN BEE,Male,,Did not impact,2005.0
+854,200501CP00043,56 - 65,2.0,Urban area,VAUXHALL,Male,,Did not impact,2005.0
+855,200501CP00044,,,,,,,,
+856,200501CP00045,16 - 20,2.0,Data missing or out of range,FORD,Male,Skidded,Nearside,2005.0
+857,200501CP00046,36 - 45,1.0,Data missing or out of range,MERCEDES,Male,,Did not impact,2005.0
+858,200501CP00047,,,,,,,,
+859,200501CP00048,46 - 55,2.0,Urban area,PIAGGIO,Male,Skidded,Did not impact,2005.0
+860,200501CP00049,,,,,,,,
+861,200501CP00050,,,,,,,,
+862,200501CP00051,,,,,,,,
+863,200501CP00052,,,,,,,,
+864,200501CP00053,,,,,,,,
+865,200501CP00054,Data missing or out of range,4.0,Urban area,CITROEN,Male,,Offside,2005.0
+866,200501CP00055,21 - 25,16.0,Urban area,HONDA,Male,Skidded,Front,2005.0
+867,200501CP00056,66 - 75,6.0,Urban area,LONDON TAXIS INT,Male,,Front,2005.0
+868,200501CP00057,,,,,,,,
+869,200501CP00058,,,,,,,,
+870,200501CP00059,21 - 25,8.0,Urban area,SUZUKI,Male,Skidded,Nearside,2005.0
+871,200501CP00060,,,,,,,,
+872,200501CP00061,36 - 45,3.0,Urban area,BMW,Male,,Offside,2005.0
+873,200501CP00061,46 - 55,1.0,Urban area,VOLVO,Male,,Offside,2005.0
+874,200501CP00062,56 - 65,6.0,Small town,MAN,Male,,Nearside,2005.0
+875,200501CP00063,46 - 55,3.0,Urban area,DENNIS,Male,,Did not impact,2005.0
+876,200501CP00064,,,,,,,,
+877,200501CP00065,Data missing or out of range,2.0,Data missing or out of range,HONDA,Male,Skidded,Front,2005.0
+878,200501CP00066,,,,,,,,
+879,200501CP00067,36 - 45,2.0,Urban area,VOLVO,Male,,Did not impact,2005.0
+880,200501CP00068,,,,,,,,
+881,200501CP00069,,,,,,,,
+882,200501CP00070,,,,,,,,
+883,200501CP00071,,,,,,,,
+884,200501CP00072,56 - 65,7.0,Urban area,DENNIS,Male,,Front,2005.0
+885,200501CP00073,Data missing or out of range,3.0,Data missing or out of range,FORD,Not known,,Nearside,2005.0
+886,200501CP00074,21 - 25,3.0,Urban area,SCANIA,Male,,Front,2005.0
+887,200501CP00075,26 - 35,6.0,Data missing or out of range,KAWASAKI,Male,,Did not impact,2005.0
+888,200501CP00076,,,,,,,,
+889,200501CP00077,,,,,,,,
+890,200501CP00078,46 - 55,5.0,Urban area,LONDON TAXIS INT,Male,,Did not impact,2005.0
+891,200501CP00079,,,,,,,,
+892,200501CP00080,26 - 35,4.0,Urban area,DAF TRUCKS,Male,,Front,2005.0
+893,200501CP00080,36 - 45,3.0,Urban area,LONDON TAXIS INT,Male,,Back,2005.0
+894,200501CP00081,26 - 35,4.0,Urban area,PIAGGIO,Male,Skidded,Offside,2005.0
+895,200501CP00082,36 - 45,8.0,Urban area,TRIUMPH,Male,Skidded,Front,2005.0
+896,200501CP00083,Data missing or out of range,2.0,Data missing or out of range,MAN,Male,,Nearside,2005.0
+897,200501CP00084,Data missing or out of range,2.0,Data missing or out of range,DENNIS,Male,,Nearside,2005.0
+898,200501CP00085,36 - 45,,Urban area,BUELL,Male,,Front,2005.0
+899,200501CP00086,,,,,,,,
+900,200501CP00087,,,,,,,,
+901,200501CP00088,56 - 65,5.0,Data missing or out of range,VOLVO,Male,,Nearside,2005.0
+902,200501CP00089,,,,,,,,
+903,200501CP00090,,,,,,,,
+904,200501CP00091,,,,,,,,
+905,200501CP00092,36 - 45,6.0,Urban area,SUZUKI,Male,,Front,2005.0
+906,200501CP00093,,,,,,,,
+907,200501CP00095,,,,,,,,
+908,200501CP00096,36 - 45,,Urban area,LONDON TAXIS INT,Male,,Back,2005.0
+909,200501CP00097,36 - 45,5.0,Urban area,TRIUMPH,Male,,Front,2005.0
+910,200501CP00098,36 - 45,3.0,Urban area,TOYOTA,Male,,Back,2005.0
+911,200501CP00099,,,,,,,,
+912,200501CP00100,,,,,,,,
+913,200501CP00101,36 - 45,5.0,Urban area,DENNIS,Male,,Did not impact,2005.0
+914,200501CP00102,,,,,,,,
+915,200501CP00103,36 - 45,5.0,Urban area,VOLVO,Male,,Did not impact,2005.0
+916,200501CP00104,,,,,,,,
+917,200501CP00105,26 - 35,,Urban area,FIAT,Male,,Offside,2005.0
+918,200501CP00106,46 - 55,3.0,Urban area,DENNIS,Male,,Front,2005.0
+919,200501CP00107,,,,,,,,
+920,200501CP00108,,,,,,,,
+921,200501CP00109,,,,,,,,
+922,200501CP00111,36 - 45,1.0,Urban area,FORD,Male,,Back,2005.0
+923,200501CP00112,16 - 20,,Urban area,CITROEN,Male,,Offside,2005.0
+924,200501CP00112,36 - 45,4.0,Urban area,LONDON TAXIS INT,Male,Skidded,Nearside,2005.0
+925,200501CP00113,,,,,,,,
+926,200501CP00114,36 - 45,2.0,Data missing or out of range,AUDI,Female,,Front,2005.0
+927,200501CP00115,,,,,,,,
+928,200501CP00116,21 - 25,2.0,Urban area,YAMAHA,Male,,Nearside,2005.0
+929,200501CP00117,21 - 25,1.0,Urban area,TAISHAN,Male,,Did not impact,2005.0
+930,200501CP00118,36 - 45,,Data missing or out of range,VAUXHALL,Male,,Nearside,2005.0
+931,200501CP00119,,,,,,,,
+932,200501CP00120,Data missing or out of range,1.0,Urban area,FORD,Male,,Front,2005.0
+933,200501CP00121,,,,,,,,
+934,200501CP00122,26 - 35,7.0,Urban area,HONDA,Male,,Front,2005.0
+935,200501CP00123,36 - 45,10.0,Urban area,BMW,Male,,Front,2005.0
+936,200501CP00124,36 - 45,2.0,Urban area,KIA,Male,,Nearside,2005.0
+937,200501CP00125,,,,,,,,
+938,200501CP00126,,,,,,,,
+939,200501CP00127,36 - 45,4.0,Urban area,LONDON TAXIS INT,Male,,Offside,2005.0
+940,200501CP00128,36 - 45,5.0,Urban area,LONDON TAXIS INT,Male,,Back,2005.0
+941,200501CP00129,,,,,,,,
+942,200501CP00130,,,,,,,,
+943,200501CP00131,36 - 45,3.0,Urban area,DENNIS,Male,,Front,2005.0
+944,200501CP00132,26 - 35,5.0,Urban area,VOLVO,Male,,Offside,2005.0
+945,200501CP00133,36 - 45,2.0,Rural,VOLVO,Male,,Back,2005.0
+946,200501CP00134,,,,,,,,
+947,200501CP00135,66 - 75,,Urban area,PEUGEOT,Male,,Back,2005.0
+948,200501CP00136,26 - 35,5.0,Urban area,FORD,Male,,Back,2005.0
+949,200501CP00137,46 - 55,3.0,Urban area,VOLVO,Male,,Did not impact,2005.0
+950,200501CP00138,46 - 55,5.0,Urban area,VOLKSWAGEN,Male,,Offside,2005.0
+951,200501CP00139,56 - 65,2.0,Urban area,RENAULT,Male,,Front,2005.0
+952,200501CP00140,56 - 65,4.0,Urban area,HONDA,Male,,Nearside,2005.0
+953,200501CP00141,26 - 35,4.0,Urban area,DENNIS,Male,,Nearside,2005.0
+954,200501CP00142,,,,,,,,
+955,200501CP00143,36 - 45,6.0,Urban area,VOLKSWAGEN,Male,,Offside,2005.0
+956,200501CP00143,36 - 45,3.0,Urban area,FORD,Male,,Front,2005.0
+957,200501CP00144,,,,,,,,
+958,200501CP00145,,,,,,,,
+959,200501CP00146,26 - 35,7.0,Data missing or out of range,LONDON TAXIS INT,Male,,Nearside,2005.0
+960,200501CP00147,36 - 45,1.0,Urban area,TOYOTA,Male,,Back,2005.0
+961,200501CP00148,26 - 35,,Urban area,IVECO,Male,,Front,2005.0
+962,200501CP00149,36 - 45,,Urban area,VOLVO,Female,,Did not impact,2005.0
+963,200501CP00150,,,,,,,,
+964,200501CP00151,,,,,,,,
+965,200501CP00152,46 - 55,1.0,Urban area,KIA,Male,,Front,2005.0
+966,200501CP00153,26 - 35,,Urban area,TOYOTA,Male,,Nearside,2005.0
+967,200501CP00154,26 - 35,2.0,Urban area,VOLVO,Male,,Front,2005.0
+968,200501CP00154,26 - 35,2.0,Urban area,LONDON TAXIS INT,Male,,Did not impact,2005.0
+969,200501CP00155,36 - 45,27.0,Urban area,YAMAHA,Male,,Front,2005.0
+970,200501CP00156,,,,,,,,
+971,200501CP00157,21 - 25,5.0,Urban area,VOLVO,Male,,Did not impact,2005.0
+972,200501CP00158,36 - 45,1.0,Urban area,LONDON TAXIS INT,Male,,Nearside,2005.0
+973,200501CP00159,,,,,,,,
+974,200501CP00160,,,,,,,,
+975,200501CP00161,Data missing or out of range,18.0,Data missing or out of range,VOLVO,Male,,Did not impact,2005.0
+976,200501CP00162,,,,,,,,
+977,200501CP00163,,,,,,,,
+978,200501CP00164,,,,,,,,
+979,200501CP00165,36 - 45,2.0,Urban area,KAWASAKI,Male,Skidded,Did not impact,2005.0
+980,200501CP00166,,,,,,,,
+981,200501CP00167,36 - 45,13.0,Urban area,HONDA,Male,,Front,2005.0
+982,200501CP00168,,,,,,,,
+983,200501CP00169,,,,,,,,
+984,200501CP00170,,,,,,,,
+985,200501CP00171,26 - 35,8.0,Rural,HONDA,Male,Skidded,Did not impact,2005.0
+986,200501CP00171,Data missing or out of range,7.0,Data missing or out of range,LONDON TAXIS INT,Male,,Did not impact,2005.0
+987,200501CP00172,36 - 45,,Urban area,SCANIA,Male,,Front,2005.0
+988,200501CP00173,26 - 35,9.0,Urban area,HONDA,Female,,Nearside,2005.0
+989,200501CP00174,66 - 75,3.0,Urban area,SCANIA,Male,,Nearside,2005.0
+990,200501CP00175,21 - 25,5.0,Urban area,HONDA,Male,,Front,2005.0
+991,200501CP00176,,,,,,,,
+992,200501CP00177,,,,,,,,
+993,200501CP00178,36 - 45,4.0,Urban area,DAF TRUCKS,Male,,Front,2005.0
+994,200501CP00179,,,,,,,,
+995,200501CP00180,,,,,,,,
+996,200501CP00181,,,,,,,,
+997,200501CP00182,Data missing or out of range,3.0,Data missing or out of range,VOLKSWAGEN,Not known,,Front,2005.0
+998,200501CP00183,36 - 45,,Urban area,ALEXANDER DENNIS,Male,,Nearside,2005.0
+999,200501CP00184,26 - 35,,Urban area,VOLKSWAGEN,Male,,Did not impact,2005.0
+1000,200501CP00185,36 - 45,7.0,Urban area,LONDON TAXIS INT,Male,,Nearside,2005.0
+1001,200501CP00186,,,,,,,,
+1002,200501CP00187,Data missing or out of range,1.0,Data missing or out of range,SAAB,Female,,Offside,2005.0
+1003,200501CP00188,36 - 45,3.0,Urban area,MINI,Male,,Nearside,2005.0
+1004,200501CP00189,36 - 45,2.0,Urban area,DENNIS,Male,,Offside,2005.0
+1005,200501CP00190,26 - 35,1.0,Data missing or out of range,TRANSBUS INT,Male,,Nearside,2005.0
+1006,200501CP00191,36 - 45,,Data missing or out of range,MAN,Male,,Nearside,2005.0
+1007,200501CP00192,46 - 55,1.0,Data missing or out of range,VAUXHALL,Male,,Offside,2005.0
+1008,200501CP00193,,,,,,,,
+1009,200501CP00194,Data missing or out of range,11.0,Data missing or out of range,TOYOTA,Male,,Nearside,2005.0
+1010,200501CP00195,,,,,,,,
+1011,200501CP00196,,,,,,,,
+1012,200501CP00197,26 - 35,10.0,Data missing or out of range,KAWASAKI,Male,,Nearside,2005.0
+1013,200501CP00198,26 - 35,4.0,Urban area,FORD,Male,,Front,2005.0
+1014,200501CP00199,,,,,,,,
+1015,200501CP00200,,,,,,,,
+1016,200501CP00201,,,,,,,,
+1017,200501CP00202,,,,,,,,
+1018,200501CP00203,46 - 55,6.0,Urban area,LONDON TAXIS INT,Male,,Nearside,2005.0
+1019,200501CP00204,26 - 35,4.0,Urban area,DENNIS,Male,,Did not impact,2005.0
+1020,200501CP00204,Data missing or out of range,11.0,Data missing or out of range,CITROEN,Not known,,Did not impact,2005.0
+1021,200501CP00205,26 - 35,1.0,Data missing or out of range,SCANIA,Male,,Nearside,2005.0
+1022,200501CP00206,26 - 35,1.0,Urban area,FORD,Male,,Front,2005.0
+1023,200501CP00207,26 - 35,1.0,Urban area,MERCEDES,Male,,Front,2005.0
+1024,200501CP00208,,,,,,,,
+1025,200501CP00209,,,,,,,,
+1026,200501CP00210,36 - 45,1.0,Urban area,BMW,Male,,Offside,2005.0
+1027,200501CP00211,36 - 45,8.0,Urban area,PEUGEOT,Male,,Front,2005.0
+1028,200501CP00212,46 - 55,5.0,Urban area,LONDON TAXIS INT,Male,,Nearside,2005.0
+1029,200501CP00213,,,,,,,,
+1030,200501CP00214,21 - 25,,Urban area,DAEWOO,Male,,Offside,2005.0
+1031,200501CP00215,,,,,,,,
+1032,200501CP00216,26 - 35,7.0,Urban area,KAWASAKI,Male,,Front,2005.0
+1033,200501CP00217,26 - 35,7.0,Urban area,AUDI,Male,,Offside,2005.0
+1034,200501CP00218,,,,,,,,
+1035,200501CP00219,,,,,,,,
+1036,200501CP00220,56 - 65,1.0,Urban area,TRANSBUS INT,Male,,Front,2005.0
+1037,200501CP00220,46 - 55,2.0,Data missing or out of range,MERCEDES,Male,,Back,2005.0
+1038,200501CP00221,36 - 45,21.0,Urban area,MCW,Male,,Offside,2005.0
+1039,200501CP00221,46 - 55,2.0,Urban area,IRIS.BUS,Male,,Nearside,2005.0
+1040,200501CP00222,,,,,,,,
+1041,200501CP00223,,,,,,,,
+1042,200501CP00224,46 - 55,1.0,Urban area,VOLKSWAGEN,Male,,Front,2005.0
+1043,200501CP00225,,,,,,,,
+1044,200501CP00226,26 - 35,,Data missing or out of range,PIAGGIO,Male,Skidded,Front,2005.0
+1045,200501CP00227,,,,,,,,
+1046,200501CP00228,56 - 65,4.0,Data missing or out of range,VOLVO,Male,,Back,2005.0
+1047,200501CP00228,26 - 35,4.0,Urban area,DAF TRUCKS,Male,,Front,2005.0
+1048,200501CP00229,,,,,,,,
+1049,200501CP00230,36 - 45,1.0,Urban area,LONDON TAXIS INT,Male,,Nearside,2005.0
+1050,200501CP00231,26 - 35,2.0,Data missing or out of range,FORD,Male,,Front,2005.0
+1051,200501CP00232,36 - 45,1.0,Urban area,TRANSBUS INT,Male,Skidded,Did not impact,2005.0
+1052,200501CP00233,46 - 55,,Urban area,FORD,Male,,Front,2005.0
+1053,200501CP00234,46 - 55,3.0,Data missing or out of range,LONDON TAXIS INT,Male,,Back,2005.0
+1054,200501CP00235,36 - 45,,Small town,SUZUKI,Male,Skidded and overturned,Nearside,2005.0
+1055,200501CP00236,Data missing or out of range,8.0,Urban area,FORD,Male,,Back,2005.0
+1056,200501CP00237,,,,,,,,
+1057,200501CP00238,,,,,,,,
+1058,200501CP00239,36 - 45,6.0,Urban area,LONDON TAXIS INT,Male,,Did not impact,2005.0
+1059,200501CP00240,,,,,,,,
+1060,200501CP00241,,,,,,,,
+1061,200501CP00242,46 - 55,2.0,Urban area,DENNIS,Female,,Front,2005.0
+1062,200501CP00243,,,,,,,,
+1063,200501CP00244,,,,,,,,
+1064,200501CP00245,,,,,,,,
+1065,200501CP00246,,,,,,,,
+1066,200501CP00247,,,,,,,,
+1067,200501CP00248,,,,,,,,
+1068,200501CP00249,,,,,,,,
+1069,200501CP00250,,,,,,,,
+1070,200501CP00251,,,,,,,,
+1071,200501CP00252,36 - 45,2.0,Urban area,DAF TRUCKS,Male,,Front,2005.0
+1072,200501CP00252,21 - 25,3.0,Urban area,MERCEDES,Male,,Offside,2005.0
+1073,200501CP00253,Data missing or out of range,8.0,Data missing or out of range,FIAT,Female,,Back,2005.0
+1074,200501CP00254,,,,,,,,
+1075,200501CP00255,,,,,,,,
+1076,200501CP00256,,,,,,,,
+1077,200501CP00257,21 - 25,13.0,Urban area,RENAULT,Male,Skidded,Front,2005.0
+1078,200501CP00258,,,,,,,,
+1079,200501CP00259,Data missing or out of range,6.0,Urban area,LONDON TAXIS INT,Male,,Back,2005.0
+1080,200501CP00260,,,,,,,,
+1081,200501CP00261,21 - 25,1.0,Urban area,PEUGEOT,Male,,Front,2005.0
+1082,200501CP00262,56 - 65,4.0,Urban area,DENNIS,Male,,Did not impact,2005.0
+1083,200501CP00263,21 - 25,11.0,Urban area,CITROEN,Male,,Nearside,2005.0
+1084,200501CP00264,,,,,,,,
+1085,200501CP00265,,,,,,,,
+1086,200501CP00266,46 - 55,2.0,Urban area,LONDON TAXIS INT,Male,,Nearside,2005.0
+1087,200501CP00266,26 - 35,,Urban area,HONDA,Male,,Offside,2005.0
+1088,200501CP00267,,,,,,,,
+1089,200501CP00268,,,,,,,,
+1090,200501CP00269,26 - 35,3.0,Data missing or out of range,RENAULT,Male,,Front,2005.0
+1091,200501CP00270,,,,,,,,
+1092,200501CP00271,,,,,,,,
+1093,200501CP00272,,,,,,,,
+1094,200501CP00273,36 - 45,2.0,Urban area,MERCEDES,Male,,Nearside,2005.0
+1095,200501CP00274,,,,,,,,
+1096,200501CP00275,26 - 35,,Urban area,VOLKSWAGEN,Male,,Front,2005.0
+1097,200501CP00276,26 - 35,,Urban area,VAUXHALL,Male,,Offside,2005.0
+1098,200501CP00277,,,,,,,,
+1099,200501CP00278,21 - 25,,Urban area,HONDA,Male,,Front,2005.0
+1100,200501CP00279,,,,,,,,
+1101,200501CP00280,,,,,,,,
+1102,200501CP00281,26 - 35,3.0,Urban area,FORD,Male,,Offside,2005.0
+1103,200501CP00282,,,,,,,,
+1104,200501CP00283,Data missing or out of range,,Data missing or out of range,FORD,Male,,Front,2005.0
+1105,200501CP00284,46 - 55,1.0,Data missing or out of range,LONDON TAXIS INT,Male,,Nearside,2005.0
+1106,200501CP00285,,,,,,,,
+1107,200501CP00286,,,,,,,,
+1108,200501CP00287,,,,,,,,
+1109,200501CP00288,,,,,,,,
+1110,200501CP00289,,,,,,,,
+1111,200501CP00290,26 - 35,1.0,Urban area,PIAGGIO,Male,,Front,2005.0
+1112,200501CP00291,Data missing or out of range,,Data missing or out of range,MERCEDES,Male,,Back,2005.0
+1113,200501CP00292,,,,,,,,
+1114,200501CP00293,26 - 35,,Urban area,BMW,Female,,Back,2005.0
+1115,200501CP00294,,,,,,,,
+1116,200501CP00295,56 - 65,2.0,Urban area,KAWASAKI,Male,,Offside,2005.0
+1117,200501CP00296,36 - 45,2.0,Urban area,PIAGGIO,Male,,Nearside,2005.0
+1118,200501CP00296,36 - 45,1.0,Data missing or out of range,MERCEDES,Male,,Offside,2005.0
+1119,200501CP00297,36 - 45,6.0,Urban area,DENNIS,Female,,Nearside,2005.0
+1120,200501CP00298,,,,,,,,
+1121,200501CP00299,36 - 45,6.0,Urban area,LONDON TAXIS INT,Male,,Offside,2005.0
+1122,200501CP00300,,,,,,,,
+1123,200501CP00301,,,,,,,,
+1124,200501CP00302,46 - 55,2.0,Urban area,DENNIS,Male,,Did not impact,2005.0
+1125,200501CP00303,,,,,,,,
+1126,200501CP00304,36 - 45,8.0,Urban area,TOYOTA,Male,,Front,2005.0
+1127,200501CP00305,Data missing or out of range,4.0,Urban area,VAUXHALL,Male,,Offside,2005.0
+1128,200501CP00305,26 - 35,7.0,Urban area,BMW,Male,,Front,2005.0
+1129,200501CP00306,36 - 45,5.0,Urban area,RENAULT,Male,,Offside,2005.0
+1130,200501CP00307,Data missing or out of range,1.0,Data missing or out of range,VOLKSWAGEN,Male,,Nearside,2005.0
+1131,200501CP09007,Data missing or out of range,3.0,Data missing or out of range,SCANIA,Male,,Offside,2005.0
+1132,200501CW10002,36 - 45,2.0,Data missing or out of range,MERCEDES,Male,,Front,2005.0
+1133,200501CW10003,,,,,,,,
+1134,200501CW10008,,,,,,,,
+1135,200501CW10013,,,,,,,,
+1136,200501CW10014,,,,,,,,
+1137,200501CW10015,,,,,,,,
+1138,200501CW10016,36 - 45,3.0,Urban area,LONDON TAXIS INT,Male,,Front,2005.0
+1139,200501CW10017,26 - 35,3.0,Urban area,DENNIS,Male,,Front,2005.0
+1140,200501CW10018,,,,,,,,
+1141,200501CW10019,,,,,,,,
+1142,200501CW10020,,,,,,,,
+1143,200501CW10022,26 - 35,7.0,Urban area,MAN,Male,,Back,2005.0
+1144,200501CW10023,,,,,,,,
+1145,200501CW10024,,,,,,,,
+1146,200501CW10025,36 - 45,6.0,Data missing or out of range,LONDON TAXIS INT,Male,,Offside,2005.0
+1147,200501CW10026,,,,,,,,
+1148,200501CW10028,56 - 65,2.0,Data missing or out of range,DENNIS,Male,,Did not impact,2005.0
+1149,200501CW10029,46 - 55,5.0,Urban area,LEYLAND,Male,,Front,2005.0
+1150,200501CW10030,36 - 45,9.0,Urban area,TOYOTA,Male,,Front,2005.0
+1151,200501CW10031,36 - 45,12.0,Urban area,NISSAN,Male,,Front,2005.0
+1152,200501CW10032,,,,,,,,
+1153,200501CW10033,,,,,,,,
+1154,200501CW10034,36 - 45,2.0,Urban area,HONDA,Male,Skidded,Front,2005.0
+1155,200501CW10036,,,,,,,,
+1156,200501CW10037,,,,,,,,
+1157,200501CW10038,,,,,,,,
+1158,200501CW10039,26 - 35,5.0,Data missing or out of range,HONDA,Male,Skidded,Did not impact,2005.0
+1159,200501CW10039,56 - 65,4.0,Rural,BMW,Female,,Did not impact,2005.0
+1160,200501CW10040,,,,,,,,
+1161,200501CW10041,66 - 75,2.0,Urban area,DENNIS,Male,,Did not impact,2005.0
+1162,200501CW10042,36 - 45,4.0,Urban area,FORD,Male,Skidded,Nearside,2005.0
+1163,200501CW10043,,,,,,,,
+1164,200501CW10044,,,,,,,,
+1165,200501CW10045,26 - 35,2.0,Urban area,MERCEDES,Male,,Offside,2005.0
+1166,200501CW10047,,,,,,,,
+1167,200501CW10049,36 - 45,7.0,Urban area,VOLVO,Male,,Nearside,2005.0
+1168,200501CW10050,,,,,,,,
+1169,200501CW10052,,,,,,,,
+1170,200501CW10054,,,,,,,,
+1171,200501CW10055,26 - 35,1.0,Urban area,TOYOTA,Male,,Back,2005.0
+1172,200501CW10056,26 - 35,5.0,Urban area,DENNIS,Male,,Did not impact,2005.0
+1173,200501CW10057,,,,,,,,
+1174,200501CW10058,,,,,,,,
+1175,200501CW10061,,,,,,,,
+1176,200501CW10062,Data missing or out of range,10.0,Data missing or out of range,ROVER,Male,,Front,2005.0
+1177,200501CW10063,36 - 45,3.0,Urban area,MITSUBISHI,Male,,Front,2005.0
+1178,200501CW10064,,,,,,,,
+1179,200501CW10070,,,,,,,,
+1180,200501CW10073,,,,,,,,
+1181,200501CW10074,,,,,,,,
+1182,200501CW10075,,,,,,,,
+1183,200501CW10076,,,,,,,,
+1184,200501CW10077,,,,,,,,
+1185,200501CW10078,,,,,,,,
+1186,200501CW10079,,,,,,,,
+1187,200501CW10080,,,,,,,,
+1188,200501CW10081,,,,,,,,
+1189,200501CW10082,,,,,,,,
+1190,200501CW10083,66 - 75,7.0,Data missing or out of range,LONDON TAXIS INT,Male,,Front,2005.0
+1191,200501CW10084,36 - 45,5.0,Urban area,PEUGEOT,Female,,Offside,2005.0
+1192,200501CW10085,36 - 45,12.0,Urban area,YAMAHA,Male,,Offside,2005.0
+1193,200501CW10086,,,,,,,,
+1194,200501CW10087,,,,,,,,
+1195,200501CW10088,26 - 35,1.0,Data missing or out of range,PIAGGIO,Female,Skidded,Front,2005.0
+1196,200501CW10088,26 - 35,7.0,Small town,VOLVO,Male,,Offside,2005.0
+1197,200501CW10089,26 - 35,3.0,Urban area,MERCEDES,Male,,Front,2005.0
+1198,200501CW10090,46 - 55,4.0,Data missing or out of range,SUZUKI,Male,,Front,2005.0
+1199,200501CW10091,,,,,,,,
+1200,200501CW10092,,,,,,,,
+1201,200501CW10093,,,,,,,,
+1202,200501CW10094,,,,,,,,
+1203,200501CW10095,36 - 45,15.0,Data missing or out of range,TOYOTA,Male,,Offside,2005.0
+1204,200501CW10102,,,,,,,,
+1205,200501CW10103,,,,,,,,
+1206,200501CW10104,,,,,,,,
+1207,200501CW10106,,,,,,,,
+1208,200501CW10107,16 - 20,14.0,Urban area,VOLKSWAGEN,Female,,Front,2005.0
+1209,200501CW10108,46 - 55,7.0,Data missing or out of range,LONDON TAXIS INT,Male,,Offside,2005.0
+1210,200501CW10109,46 - 55,3.0,Data missing or out of range,LONDON TAXIS INT,Male,,Front,2005.0
+1211,200501CW10110,,,,,,,,
+1212,200501CW10111,,,,,,,,
+1213,200501CW10112,46 - 55,3.0,Urban area,LAND ROVER,Female,,Nearside,2005.0
+1214,200501CW10113,,,,,,,,
+1215,200501CW10114,26 - 35,4.0,Urban area,LEYLAND AEC,Male,,Did not impact,2005.0
+1216,200501CW10116,26 - 35,4.0,Data missing or out of range,LEYLAND AEC,Male,,Did not impact,2005.0
+1217,200501CW10118,,,,,,,,
+1218,200501CW10119,,,,,,,,
+1219,200501CW10120,16 - 20,3.0,Data missing or out of range,PIAGGIO,Male,,Did not impact,2005.0
+1220,200501CW10121,36 - 45,4.0,Urban area,DAF TRUCKS,Male,,Did not impact,2005.0
+1221,200501CW10122,Data missing or out of range,,Data missing or out of range,VAUXHALL,Male,,Front,2005.0
+1222,200501CW10124,46 - 55,2.0,Data missing or out of range,IVECO-FORD,Male,,Front,2005.0
+1223,200501CW10124,26 - 35,2.0,Urban area,RENAULT,Female,,Nearside,2005.0
+1224,200501CW10125,46 - 55,23.0,Urban area,LEYLAND NATIONAL,Male,,Front,2005.0
+1225,200501CW10126,36 - 45,13.0,Urban area,PROTON,Male,,Back,2005.0
+1226,200501CW10127,26 - 35,4.0,Urban area,HONDA,Male,,Offside,2005.0
+1227,200501CW10129,46 - 55,1.0,Urban area,LONDON TAXIS INT,Male,,Offside,2005.0
+1228,200501CW10130,21 - 25,1.0,Urban area,TAIWAN GOLDEN BEE,Male,,Front,2005.0
+1229,200501CW10131,,,,,,,,
+1230,200501CW10132,36 - 45,5.0,Urban area,DENNIS,Male,,Did not impact,2005.0
+1231,200501CW10135,,,,,,,,
+1232,200501CW10136,36 - 45,2.0,Urban area,MERCEDES,Male,,Nearside,2005.0
+1233,200501CW10137,36 - 45,4.0,Urban area,BMW,Male,,Front,2005.0
+1234,200501CW10138,,,,,,,,
+1235,200501CW10140,46 - 55,17.0,Urban area,VOLVO,Male,,Front,2005.0
+1236,200501CW10141,36 - 45,11.0,Urban area,HONDA,Male,,Offside,2005.0
+1237,200501CW10142,36 - 45,2.0,Urban area,DENNIS,Female,,Offside,2005.0
+1238,200501CW10143,Data missing or out of range,3.0,Urban area,BMW,Female,,Nearside,2005.0
+1239,200501CW10144,,,,,,,,
+1240,200501CW10146,,,,,,,,
+1241,200501CW10149,26 - 35,5.0,Urban area,PIAGGIO,Male,,Nearside,2005.0
+1242,200501CW10150,,,,,,,,
+1243,200501CW10160,46 - 55,3.0,Urban area,MERCEDES,Male,,Front,2005.0
+1244,200501CW10177,,,,,,,,
+1245,200501CW10182,,,,,,,,
+1246,200501CW10183,26 - 35,5.0,Urban area,RENAULT,Male,,Front,2005.0
+1247,200501CW10184,21 - 25,1.0,Data missing or out of range,MERCEDES,Male,,Front,2005.0
+1248,200501CW10185,,,,,,,,
+1249,200501CW10186,,,,,,,,
+1250,200501CW10187,,,,,,,,
+1251,200501CW10188,Over 75,6.0,Urban area,HONDA,Female,,Nearside,2005.0
+1252,200501CW10189,36 - 45,1.0,Urban area,FIAT,Male,,Nearside,2005.0
+1253,200501CW10189,Data missing or out of range,6.0,Data missing or out of range,MERCEDES,Male,,Offside,2005.0
+1254,200501CW10190,,,,,,,,
+1255,200501CW10192,26 - 35,,Urban area,PIAGGIO,Male,,Front,2005.0
+1256,200501CW10194,,,,,,,,
+1257,200501CW10195,,,,,,,,
+1258,200501CW10196,,,,,,,,
+1259,200501CW10197,,,,,,,,
+1260,200501CW10198,46 - 55,7.0,Urban area,TRIUMPH,Male,Skidded,Front,2005.0
+1261,200501CW10199,36 - 45,5.0,Urban area,DENNIS,Male,,Nearside,2005.0
+1262,200501CW10200,,,,,,,,
+1263,200501CW10201,Data missing or out of range,4.0,Urban area,HONDA,Male,,Did not impact,2005.0
+1264,200501CW10202,21 - 25,4.0,Urban area,HONDA,Male,,Front,2005.0
+1265,200501CW10203,,,,,,,,
+1266,200501CW10204,21 - 25,1.0,Urban area,BMW,Female,,Front,2005.0
+1267,200501CW10205,46 - 55,7.0,Urban area,LONDON TAXIS INT,Male,,Front,2005.0
+1268,200501CW10206,36 - 45,4.0,Urban area,MERCEDES,Female,,Nearside,2005.0
+1269,200501CW10207,26 - 35,3.0,Urban area,PIAGGIO,Male,,Offside,2005.0
+1270,200501CW10208,,,,,,,,
+1271,200501CW10209,,,,,,,,
+1272,200501CW10214,21 - 25,5.0,Urban area,HONDA,Male,,Front,2005.0
+1273,200501CW10214,36 - 45,,Urban area,MCW,Male,,Nearside,2005.0
+1274,200501CW10216,,,,,,,,
+1275,200501CW10217,26 - 35,10.0,Data missing or out of range,NISSAN,Male,,Front,2005.0
+1276,200501CW10217,26 - 35,,Urban area,MCC,Male,,Front,2005.0
+1277,200501CW10218,,,,,,,,
+1278,200501CW10220,46 - 55,2.0,Urban area,VOLVO,Male,,Front,2005.0
+1279,200501CW10221,21 - 25,4.0,Urban area,FORD,Male,,Front,2005.0
+1280,200501CW10222,46 - 55,1.0,Urban area,VOLVO,Male,,Front,2005.0
+1281,200501CW10223,46 - 55,1.0,Urban area,MERCEDES,Male,,Nearside,2005.0
+1282,200501CW10225,46 - 55,5.0,Urban area,LONDON TAXIS INT,Male,,Nearside,2005.0
+1283,200501CW10226,46 - 55,5.0,Data missing or out of range,DENNIS,Male,,Did not impact,2005.0
+1284,200501CW10227,46 - 55,10.0,Urban area,FIAT,Female,,Offside,2005.0
+1285,200501CW10228,,,,,,,,
+1286,200501CW10229,26 - 35,,Data missing or out of range,VAUXHALL,Male,,Front,2005.0
+1287,200501CW10230,36 - 45,3.0,Urban area,TRIUMPH,Male,,Nearside,2005.0
+1288,200501CW10231,46 - 55,1.0,Urban area,PEUGEOT,Male,,Back,2005.0
+1289,200501CW10232,,,,,,,,
+1290,200501CW10234,46 - 55,5.0,Urban area,DENNIS,Male,,Nearside,2005.0
+1291,200501CW10235,46 - 55,3.0,Urban area,LONDON TAXIS INT,Male,,Front,2005.0
+1292,200501CW10235,26 - 35,4.0,Urban area,HONDA,Male,Skidded,Offside,2005.0
+1293,200501CW10236,26 - 35,2.0,Urban area,PIAGGIO,Female,,Offside,2005.0
+1294,200501CW10238,,,,,,,,
+1295,200501CW10239,36 - 45,39.0,Urban area,LEYLAND AEC,Male,,Front,2005.0
+1296,200501CW10240,26 - 35,4.0,Urban area,DENNIS,Male,,Nearside,2005.0
+1297,200501CW10243,Data missing or out of range,2.0,Urban area,LONDON TAXIS INT,Male,,Front,2005.0
+1298,200501CW10245,36 - 45,1.0,Urban area,GILERA,Male,,Offside,2005.0
+1299,200501CW10247,Data missing or out of range,16.0,Urban area,PORSCHE,Male,,Offside,2005.0
+1300,200501CW10249,36 - 45,1.0,Urban area,MERCEDES,Male,,Nearside,2005.0
+1301,200501CW10252,36 - 45,7.0,Urban area,LONDON TAXIS INT,Male,,Nearside,2005.0
+1302,200501CW10253,,,,,,,,
+1303,200501CW10254,36 - 45,1.0,Urban area,HONDA,Male,Skidded,Front,2005.0
+1304,200501CW10255,56 - 65,5.0,Urban area,DUCATI,Male,Skidded,Did not impact,2005.0
+1305,200501CW10257,,,,,,,,
+1306,200501CW10258,66 - 75,7.0,Urban area,TOYOTA,Female,,Front,2005.0
+1307,200501CW10258,46 - 55,5.0,Urban area,LONDON TAXIS INT,Male,Skidded,Front,2005.0
+1308,200501CW10259,,,,,,,,
+1309,200501CW10261,,,,,,,,
+1310,200501CW10262,Data missing or out of range,6.0,Data missing or out of range,FORD,Male,,Front,2005.0
+1311,200501CW10264,,,,,,,,
+1312,200501CW10266,,,,,,,,
+1313,200501CW10267,36 - 45,5.0,Urban area,METROCAB,Male,,Did not impact,2005.0
+1314,200501CW10268,36 - 45,1.0,Urban area,FIAT,Male,,Offside,2005.0
+1315,200501CW10269,,,,,,,,
+1316,200501CW10270,,,,,,,,
+1317,200501CW10271,Data missing or out of range,4.0,Data missing or out of range,MERCEDES,Not known,,Nearside,2005.0
+1318,200501CW10272,,,,,,,,
+1319,200501CW10273,56 - 65,2.0,Urban area,BMW,Male,,Front,2005.0
+1320,200501CW10274,,,,,,,,
+1321,200501CW10275,36 - 45,16.0,Urban area,BMW,Female,,Front,2005.0
+1322,200501CW10276,,,,,,,,
+1323,200501CW10277,36 - 45,2.0,Urban area,DENNIS,Male,,Did not impact,2005.0
+1324,200501CW10278,46 - 55,1.0,Urban area,VAUXHALL,Male,,Front,2005.0
+1325,200501CW10279,,,,,,,,
+1326,200501CW10280,36 - 45,,Urban area,LEYLAND AEC,Male,,Did not impact,2005.0
+1327,200501CW10281,26 - 35,1.0,Urban area,YAMAHA,Male,,Front,2005.0
+1328,200501CW10282,26 - 35,1.0,Urban area,VOLVO,Male,,Nearside,2005.0
+1329,200501CW10283,36 - 45,2.0,Data missing or out of range,DENNIS,Male,,Nearside,2005.0
+1330,200501CW10284,,,,,,,,
+1331,200501CW10285,46 - 55,4.0,Urban area,LEYLAND AEC,Male,,Did not impact,2005.0
+1332,200501CW10286,,,,,,,,
+1333,200501CW10287,,,,,,,,
+1334,200501CW10288,36 - 45,2.0,Data missing or out of range,VOLVO,Male,,Did not impact,2005.0
+1335,200501CW10290,,,,,,,,
+1336,200501CW10291,,,,,,,,
+1337,200501CW10292,16 - 20,,Urban area,MAZDA,Male,,Front,2005.0
+1338,200501CW10293,,,,,,,,
+1339,200501CW10296,,,,,,,,
+1340,200501CW10297,,,,,,,,
+1341,200501CW10298,,,,,,,,
+1342,200501CW10300,46 - 55,4.0,Urban area,DAF TRUCKS,Male,,Front,2005.0
+1343,200501CW10301,36 - 45,2.0,Urban area,DENNIS,Male,,Front,2005.0
+1344,200501CW10301,21 - 25,5.0,Data missing or out of range,VOLVO,Male,,Nearside,2005.0
+1345,200501CW10302,26 - 35,3.0,Data missing or out of range,MERCEDES,Male,,Front,2005.0
+1346,200501CW10303,,,,,,,,
+1347,200501CW10304,,,,,,,,
+1348,200501CW10305,56 - 65,7.0,Urban area,SEAT,Female,,Offside,2005.0
+1349,200501CW10306,,,,,,,,
+1350,200501CW10307,,,,,,,,
+1351,200501CW10310,46 - 55,2.0,Urban area,FIAT,Male,,Front,2005.0
+1352,200501CW10311,36 - 45,5.0,Urban area,LONDON TAXIS INT,Male,,Front,2005.0
+1353,200501CW10311,36 - 45,6.0,Data missing or out of range,MERCEDES,Male,,Back,2005.0
+1354,200501CW10311,46 - 55,,Small town,FORD,Male,,Back,2005.0
+1355,200501CW10312,36 - 45,2.0,Urban area,PIAGGIO,Male,,Nearside,2005.0
+1356,200501CW10313,,,,,,,,
+1357,200501CW10314,,,,,,,,
+1358,200501CW10315,,,,,,,,
+1359,200501CW10339,,,,,,,,
+1360,200501CW10340,,,,,,,,
+1361,200501CW10341,56 - 65,7.0,Urban area,AUDI,Female,,Offside,2005.0
+1362,200501CW10343,,,,,,,,
+1363,200501CW10344,36 - 45,1.0,Urban area,VOLVO,Male,,Did not impact,2005.0
+1364,200501CW10346,21 - 25,3.0,Urban area,PIAGGIO,Male,,Front,2005.0
+1365,200501CW10347,,,,,,,,
+1366,200501CW10348,,,,,,,,
+1367,200501CW10349,,,,,,,,
+1368,200501CW10350,,,,,,,,
+1369,200501CW10351,,,,,,,,
+1370,200501CW10352,46 - 55,5.0,Urban area,DENNIS,Male,,Front,2005.0
+1371,200501CW10353,36 - 45,10.0,Urban area,TOYOTA,Male,,Offside,2005.0
+1372,200501CW10355,,,,,,,,
+1373,200501CW10356,26 - 35,1.0,Urban area,BMW,Male,,Front,2005.0
+1374,200501CW10357,,,,,,,,
+1375,200501CW10358,Data missing or out of range,12.0,Rural,VAUXHALL,Female,,Front,2005.0
+1376,200501CW10359,,,,,,,,
+1377,200501CW10361,46 - 55,10.0,Urban area,YAMAHA,Male,,Offside,2005.0
+1378,200501CW10362,,,,,,,,
+1379,200501CW10363,26 - 35,3.0,Data missing or out of range,PIAGGIO,Female,,Nearside,2005.0
+1380,200501CW10364,,,,,,,,
+1381,200501CW10365,21 - 25,2.0,Urban area,ADLY,Male,,Front,2005.0
+1382,200501CW10366,46 - 55,4.0,Data missing or out of range,DENNIS,Male,,Nearside,2005.0
+1383,200501CW10367,,,,,,,,
+1384,200501CW10368,21 - 25,2.0,Urban area,RENAULT,Female,,Back,2005.0
+1385,200501CW10368,46 - 55,9.0,Urban area,ROVER,Male,,Front,2005.0
+1386,200501CW10369,21 - 25,12.0,Data missing or out of range,SUBARU,Male,,Back,2005.0
+1387,200501CW10369,Data missing or out of range,10.0,Data missing or out of range,SUZUKI,Female,,Front,2005.0
+1388,200501CW10370,36 - 45,2.0,Urban area,VOLVO,Male,,Offside,2005.0
+1389,200501CW10371,26 - 35,,Urban area,CITROEN,Male,,Front,2005.0
+1390,200501CW10372,26 - 35,2.0,Data missing or out of range,VOLVO,Male,,Did not impact,2005.0
+1391,200501CW10373,16 - 20,1.0,Urban area,VAUXHALL,Male,,Front,2005.0
+1392,200501CW10374,36 - 45,2.0,Small town,PEUGEOT,Male,,Did not impact,2005.0
+1393,200501CW10375,Data missing or out of range,39.0,Urban area,LEYLAND AEC,Male,,Front,2005.0
+1394,200501CW10376,Data missing or out of range,3.0,Data missing or out of range,MERCEDES,Male,,Front,2005.0
+1395,200501CW10377,,,,,,,,
+1396,200501CW10379,,,,,,,,
+1397,200501CW10380,,,,,,,,
+1398,200501CW10381,46 - 55,6.0,Urban area,HONDA,Male,,Front,2005.0
+1399,200501CW10381,26 - 35,1.0,Urban area,YAMAHA,Male,,Nearside,2005.0
+1400,200501CW10382,,,,,,,,
+1401,200501CW10383,46 - 55,2.0,Urban area,VOLVO,Male,,Front,2005.0
+1402,200501CW10384,,,,,,,,
+1403,200501CW10385,56 - 65,2.0,Urban area,NISSAN,Female,,Front,2005.0
+1404,200501CW10386,26 - 35,,Urban area,VAUXHALL,Male,Skidded,Front,2005.0
+1405,200501CW10387,46 - 55,12.0,Urban area,VESPA (DOUGLAS),Male,,Front,2005.0
+1406,200501CW10388,26 - 35,3.0,Urban area,PIAGGIO,Female,,Front,2005.0
+1407,200501CW10389,46 - 55,5.0,Data missing or out of range,DAF,Male,,Did not impact,2005.0
+1408,200501CW10390,36 - 45,7.0,Urban area,TOYOTA,Female,,Back,2005.0
+1409,200501CW10391,,,,,,,,
+1410,200501CW10392,46 - 55,,Urban area,SUZUKI,Male,,Front,2005.0
+1411,200501CW10393,,,,,,,,
+1412,200501CW10394,36 - 45,5.0,Urban area,FIAT,Male,,Front,2005.0
+1413,200501CW10395,26 - 35,5.0,Data missing or out of range,LONDON TAXIS INT,Male,,Did not impact,2005.0
+1414,200501CW10396,26 - 35,5.0,Urban area,PEUGEOT,Male,,Offside,2005.0
+1415,200501CW10396,26 - 35,2.0,Urban area,FORD,Male,,Front,2005.0
+1416,200501CW10397,26 - 35,7.0,Urban area,MERCEDES,Male,,Front,2005.0
+1417,200501CW10398,36 - 45,13.0,Urban area,TOYOTA,Male,,Offside,2005.0
+1418,200501CW10399,,,,,,,,
+1419,200501CW10400,,,,,,,,
+1420,200501CW10401,26 - 35,2.0,Urban area,FORD,Male,,Nearside,2005.0
+1421,200501CW10402,,,,,,,,
+1422,200501CW10403,36 - 45,,Urban area,PEUGEOT,Male,,Front,2005.0
+1423,200501CW10405,,,,,,,,
+1424,200501CW10406,26 - 35,2.0,Urban area,DENNIS,Male,,Nearside,2005.0
+1425,200501CW10407,,,,,,,,
+1426,200501CW10408,,,,,,,,
+1427,200501CW10409,,,,,,,,
+1428,200501CW10410,,,,,,,,
+1429,200501CW10411,46 - 55,,Urban area,TOYOTA,Female,,Front,2005.0
+1430,200501CW10412,36 - 45,5.0,Urban area,LONDON TAXIS INT,Male,,Nearside,2005.0
+1431,200501CW10413,Data missing or out of range,16.0,Data missing or out of range,NISSAN,Male,,Nearside,2005.0
+1432,200501CW10414,56 - 65,,Urban area,VOLVO,Male,,Nearside,2005.0
+1433,200501CW10415,,,,,,,,
+1434,200501CW10416,,,,,,,,
+1435,200501CW10417,46 - 55,2.0,Urban area,VOLVO,Male,,Front,2005.0
+1436,200501CW10417,46 - 55,2.0,Urban area,DENNIS,Male,,Offside,2005.0
+1437,200501CW10418,,,,,,,,
+1438,200501CW10419,,,,,,,,
+1439,200501CW10420,21 - 25,8.0,Urban area,VAUXHALL,Male,,Front,2005.0
+1440,200501CW10421,36 - 45,6.0,Urban area,VOLKSWAGEN,Male,,Nearside,2005.0
+1441,200501CW10422,,,,,,,,
+1442,200501CW10423,,,,,,,,
+1443,200501CW10424,36 - 45,3.0,Urban area,APRILIA,Male,,Front,2005.0
+1444,200501CW10426,,,,,,,,
+1445,200501CW10427,26 - 35,10.0,Urban area,FIAT,Male,,Nearside,2005.0
+1446,200501CW10428,46 - 55,,Urban area,IVECO,Male,,Nearside,2005.0
+1447,200501CW10429,26 - 35,5.0,Urban area,VOLVO,Male,,Did not impact,2005.0
+1448,200501CW10430,21 - 25,1.0,Urban area,TRANSBUS INT,Male,,Did not impact,2005.0
+1449,200501CW10431,,,,,,,,
+1450,200501CW10432,56 - 65,1.0,Urban area,LONDON TAXIS INT,Male,,Nearside,2005.0
+1451,200501CW10433,21 - 25,,Data missing or out of range,CADILLAC,Male,,Front,2005.0
+1452,200501CW10434,,,,,,,,
+1453,200501CW10436,46 - 55,13.0,Urban area,LEYLAND,Male,,Nearside,2005.0
+1454,200501CW10437,,,,,,,,
+1455,200501CW10438,36 - 45,4.0,Urban area,LONDON TAXIS INT,Male,,Nearside,2005.0
+1456,200501CW10439,46 - 55,5.0,Urban area,TOYOTA,Male,,Offside,2005.0
+1457,200501CW10440,,,,,,,,
+1458,200501CW10441,26 - 35,1.0,Urban area,HONDA,Male,,Did not impact,2005.0
+1459,200501CW10442,36 - 45,4.0,Urban area,PIAGGIO,Male,,Did not impact,2005.0
+1460,200501CW10443,,,,,,,,
+1461,200501CW10444,Over 75,3.0,Urban area,TOYOTA,Female,,Offside,2005.0
+1462,200501CW10445,26 - 35,1.0,Data missing or out of range,VOLVO,Male,,Front,2005.0
+1463,200501CW10446,Data missing or out of range,1.0,Data missing or out of range,ROVER,Not known,,Front,2005.0
+1464,200501CW10447,,,,,,,,
+1465,200501CW10448,Data missing or out of range,12.0,Data missing or out of range,RENAULT,Male,,Front,2005.0
+1466,200501CW10450,,,,,,,,
+1467,200501CW10452,26 - 35,,Urban area,VAUXHALL,Male,,Front,2005.0
+1468,200501CW10453,,,,,,,,
+1469,200501CW10454,46 - 55,,Urban area,SCANIA,Male,,Front,2005.0
+1470,200501CW10455,36 - 45,5.0,Urban area,HONDA,Male,,Front,2005.0
+1471,200501CW10456,26 - 35,2.0,Urban area,TRIUMPH,Male,,Front,2005.0
+1472,200501CW10458,,,,,,,,
+1473,200501CW10459,36 - 45,1.0,Urban area,FORD,Male,,Front,2005.0
+1474,200501CW10459,26 - 35,3.0,Urban area,PIAGGIO,Male,,Front,2005.0
+1475,200501CW10460,,,,,,,,
+1476,200501CW10463,36 - 45,,Urban area,VAUXHALL,Male,,Nearside,2005.0
+1477,200501CW10464,,,,,,,,
+1478,200501CW10465,,,,,,,,
+1479,200501CW10466,Data missing or out of range,4.0,Data missing or out of range,AUDI,Male,,Offside,2005.0
+1480,200501CW10468,,,,,,,,
+1481,200501CW10469,46 - 55,,Urban area,LONDON TAXIS INT,Male,,Offside,2005.0
+1482,200501CW10469,46 - 55,3.0,Urban area,LONDON TAXIS INT,Male,,Back,2005.0
+1483,200501CW10470,,,,,,,,
+1484,200501CW10473,,,,,,,,
+1485,200501CW10474,,,,,,,,
+1486,200501CW10475,36 - 45,1.0,Urban area,HONDA,Male,,Front,2005.0
+1487,200501CW10476,36 - 45,3.0,Urban area,LONDON TAXIS INT,Male,,Back,2005.0
+1488,200501CW10478,,,,,,,,
+1489,200501CW10479,,,,,,,,
+1490,200501CW10480,16 - 20,2.0,Urban area,PIAGGIO,Male,,Front,2005.0
+1491,200501CW10481,,,,,,,,
+1492,200501CW10482,,,,,,,,
+1493,200501CW10484,,,,,,,,
+1494,200501CW10486,56 - 65,4.0,Urban area,LONDON TAXIS INT,Male,,Offside,2005.0
+1495,200501CW10487,36 - 45,5.0,Small town,LONDON TAXIS INT,Male,,Offside,2005.0
+1496,200501CW10489,,,,,,,,
+1497,200501CW10490,,,,,,,,
+1498,200501CW10491,46 - 55,2.0,Urban area,MERCEDES,Male,,Front,2005.0
+1499,200501CW10493,,,,,,,,
+1500,200501CW10494,26 - 35,1.0,Urban area,AUDI,Male,,Nearside,2005.0
+1501,200501CW10494,26 - 35,3.0,Urban area,BMW,Male,Skidded,Front,2005.0
+1502,200501CW10495,,,,,,,,
+1503,200501CW10498,,,,,,,,
+1504,200501CW10499,66 - 75,,Urban area,DAIHATSU,Male,,Nearside,2005.0
+1505,200501CW10500,,,,,,,,
+1506,200501CW10501,36 - 45,2.0,Urban area,PIAGGIO,Male,,Back,2005.0
+1507,200501CW10503,26 - 35,6.0,Urban area,LONDON TAXIS INT,Male,,Offside,2005.0
+1508,200501CW10504,36 - 45,2.0,Data missing or out of range,DENNIS,Male,,Did not impact,2005.0
+1509,200501CW10505,46 - 55,1.0,Urban area,MERCEDES,Male,,Front,2005.0
+1510,200501CW10506,,,,,,,,
+1511,200501CW10507,,,,,,,,
+1512,200501CW10509,,,,,,,,
+1513,200501CW10512,Data missing or out of range,4.0,Urban area,MERCEDES,Male,,Front,2005.0
+1514,200501CW10513,,,,,,,,
+1515,200501CW10514,,,,,,,,
+1516,200501CW10515,,,,,,,,
+1517,200501CW10516,46 - 55,14.0,Urban area,MITSUBISHI,Male,,Front,2005.0
+1518,200501CW10517,,,,,,,,
+1519,200501CW10518,46 - 55,1.0,Urban area,NISSAN,Male,,Back,2005.0
+1520,200501CW10519,Data missing or out of range,1.0,Data missing or out of range,RENAULT,Male,,Offside,2005.0
+1521,200501CW10520,36 - 45,2.0,Urban area,CHRYSLER,Male,,Back,2005.0
+1522,200501CW10521,46 - 55,8.0,Urban area,BMW,Male,,Offside,2005.0
+1523,200501CW10521,Over 75,2.0,Urban area,CITROEN,Male,,Offside,2005.0
+1524,200501CW10523,,,,,,,,
+1525,200501CW10524,46 - 55,1.0,Data missing or out of range,VOLVO,Male,,Nearside,2005.0
+1526,200501CW10525,26 - 35,12.0,Urban area,FORD,Male,Overturned,Nearside,2005.0
+1527,200501CW10526,26 - 35,4.0,Urban area,HONDA,Female,,Front,2005.0
+1528,200501CW10528,56 - 65,1.0,Data missing or out of range,DAF,Male,,Front,2005.0
+1529,200501CW10529,56 - 65,4.0,Urban area,LEYLAND AEC,Male,,Did not impact,2005.0
+1530,200501CW10530,21 - 25,1.0,Urban area,PIAGGIO,Female,,Back,2005.0
+1531,200501CW10531,,,,,,,,
+1532,200501CW10532,,,,,,,,
+1533,200501CW10533,,,,,,,,
+1534,200501CW10534,56 - 65,1.0,Urban area,PIAGGIO,Male,,Front,2005.0
+1535,200501CW10535,,,,,,,,
+1536,200501CW10536,,,,,,,,
+1537,200501CW10537,,,,,,,,
+1538,200501CW10538,,,,,,,,
+1539,200501CW10539,,,,,,,,
+1540,200501CW10540,36 - 45,2.0,Urban area,HONDA,Male,,Offside,2005.0
+1541,200501CW10542,,,,,,,,
+1542,200501CW10544,26 - 35,1.0,Data missing or out of range,MERCEDES,Male,,Did not impact,2005.0
+1543,200501CW10545,36 - 45,1.0,Urban area,MAZDA,Male,,Front,2005.0
+1544,200501CW10546,56 - 65,1.0,Urban area,VOLVO,Male,,Did not impact,2005.0
+1545,200501CW10547,,,,,,,,
+1546,200501CW10548,56 - 65,,Urban area,JAGUAR,Male,,Front,2005.0
+1547,200501CW10549,36 - 45,5.0,Urban area,PIAGGIO,Male,,Offside,2005.0
+1548,200501CW10549,36 - 45,4.0,Urban area,FORD,Male,,Nearside,2005.0
+1549,200501CW10550,26 - 35,1.0,Urban area,HARLEY-DAVIDSON,Male,,Front,2005.0
+1550,200501CW10550,46 - 55,11.0,Urban area,TOYOTA,Male,,Offside,2005.0
+1551,200501CW10551,,,,,,,,
+1552,200501CW10553,21 - 25,9.0,Urban area,ROVER,Male,,Nearside,2005.0
+1553,200501CW10554,,,,,,,,
+1554,200501CW10555,,,,,,,,
+1555,200501CW10556,,,,,,,,
+1556,200501CW10558,,,,,,,,
+1557,200501CW10561,46 - 55,7.0,Data missing or out of range,NISSAN,Male,,Nearside,2005.0
+1558,200501CW10562,,,,,,,,
+1559,200501CW10563,46 - 55,4.0,Data missing or out of range,DENNIS,Male,,Nearside,2005.0
+1560,200501CW10564,,,,,,,,
+1561,200501CW10565,46 - 55,6.0,Data missing or out of range,HONDA,Male,,Nearside,2005.0
+1562,200501CW10567,,,,,,,,
+1563,200501CW10569,,,,,,,,
+1564,200501CW10570,Data missing or out of range,8.0,Urban area,FORD,Male,,Front,2005.0
+1565,200501CW10571,46 - 55,1.0,Data missing or out of range,VOLVO,Male,,Front,2005.0
+1566,200501CW10572,26 - 35,6.0,Urban area,DENNIS,Female,,Front,2005.0
+1567,200501CW10573,,,,,,,,
+1568,200501CW10574,,,,,,,,
+1569,200501CW10575,36 - 45,1.0,Urban area,VOLKSWAGEN,Male,,Front,2005.0
+1570,200501CW10577,Data missing or out of range,,Data missing or out of range,FORD,Male,,Offside,2005.0
+1571,200501CW10578,,,,,,,,
+1572,200501CW10579,,,,,,,,
+1573,200501CW10580,36 - 45,1.0,Urban area,VAUXHALL,Male,,Back,2005.0
+1574,200501CW10581,21 - 25,,Urban area,RENAULT,Male,,Front,2005.0
+1575,200501CW10582,36 - 45,,Urban area,TOYOTA,Male,,Front,2005.0
+1576,200501CW10583,,,,,,,,
+1577,200501CW10584,,,,,,,,
+1578,200501CW10585,,,,,,,,
+1579,200501CW10586,,,,,,,,
+1580,200501CW10587,36 - 45,4.0,Urban area,VOLVO,Male,,Offside,2005.0
+1581,200501CW10587,26 - 35,1.0,Urban area,JCB,Male,,Nearside,2005.0
+1582,200501CW10588,,,,,,,,
+1583,200501CW10589,36 - 45,4.0,Urban area,FIAT,Male,,Offside,2005.0
+1584,200501CW10590,46 - 55,,Urban area,KIA,Male,,Nearside,2005.0
+1585,200501CW10591,26 - 35,10.0,Urban area,TOYOTA,Male,,Back,2005.0
+1586,200501CW10592,,,,,,,,
+1587,200501CW10593,,,,,,,,
+1588,200501CW10594,,,,,,,,
+1589,200501CW10595,26 - 35,7.0,Urban area,VAUXHALL,Male,,Front,2005.0
+1590,200501CW10596,46 - 55,,Rural,TOYOTA,Male,,Nearside,2005.0
+1591,200501CW10597,46 - 55,3.0,Urban area,FODEN,Male,,Offside,2005.0
+1592,200501CW10597,36 - 45,1.0,Urban area,PIAGGIO,Male,,Front,2005.0
+1593,200501CW10598,,,,,,,,
+1594,200501CW10599,,,,,,,,
+1595,200501CW10600,46 - 55,1.0,Data missing or out of range,TRANSBUS INT,Male,,Nearside,2005.0
+1596,200501CW10602,36 - 45,6.0,Urban area,BMW,Male,,Did not impact,2005.0
+1597,200501CW10604,,,,,,,,
+1598,200501CW10606,36 - 45,,Urban area,LONDON TAXIS INT,Male,,Nearside,2005.0
+1599,200501CW10607,56 - 65,,Data missing or out of range,FORD,Male,,Offside,2005.0
+1600,200501CW10608,46 - 55,1.0,Urban area,VOLVO,Male,,Nearside,2005.0
+1601,200501CW10609,26 - 35,1.0,Data missing or out of range,YAMAHA,Male,,Front,2005.0
+1602,200501CW10610,26 - 35,6.0,Urban area,PEUGEOT,Male,,Front,2005.0
+1603,200501CW10610,Data missing or out of range,8.0,Data missing or out of range,MAZDA,Female,,Offside,2005.0
+1604,200501CW10611,,,,,,,,
+1605,200501CW10613,56 - 65,1.0,Urban area,LONDON TAXIS INT,Male,,Offside,2005.0
+1606,200501CW10614,36 - 45,1.0,Data missing or out of range,VOLVO,Male,,Did not impact,2005.0
+1607,200501CW10615,,,,,,,,
+1608,200501CW10616,,,,,,,,
+1609,200501CW10617,,,,,,,,
+1610,200501CW10618,26 - 35,1.0,Urban area,VOLVO,Male,,Did not impact,2005.0
+1611,200501CW10619,36 - 45,5.0,Urban area,LONDON TAXIS INT,Male,,Front,2005.0
+1612,200501CW10620,46 - 55,,Data missing or out of range,DAF,Male,,Front,2005.0
+1613,200501CW10621,Data missing or out of range,5.0,Data missing or out of range,MERCEDES,Male,,Front,2005.0
+1614,200501CW10622,36 - 45,1.0,Urban area,LONDON TAXIS INT,Male,,Offside,2005.0
+1615,200501CW10623,,,,,,,,
+1616,200501CW10624,,,,,,,,
+1617,200501CW10625,26 - 35,,Urban area,KIA,Male,,Back,2005.0
+1618,200501CW10625,46 - 55,,Urban area,KAWASAKI,Male,,Offside,2005.0
+1619,200501CW10627,,,,,,,,
+1620,200501CW10628,,,,,,,,
+1621,200501CW10629,,,,,,,,
+1622,200501CW10630,,,,,,,,
+1623,200501CW10631,,,,,,,,
+1624,200501CW10632,,,,,,,,
+1625,200501CW10633,36 - 45,5.0,Urban area,PEUGEOT,Male,,Offside,2005.0
+1626,200501CW10635,,,,,,,,
+1627,200501CW10636,,,,,,,,
+1628,200501CW10638,,,,,,,,
+1629,200501CW10639,66 - 75,5.0,Data missing or out of range,LONDON TAXIS INT,Male,,Front,2005.0
+1630,200501CW10640,46 - 55,5.0,Urban area,DENNIS,Male,,Front,2005.0
+1631,200501CW10641,26 - 35,15.0,Urban area,SUZUKI,Male,Skidded,Did not impact,2005.0
+1632,200501CW10641,36 - 45,1.0,Urban area,VOLVO,Female,,Did not impact,2005.0
+1633,200501CW10642,36 - 45,3.0,Urban area,HONDA,Female,Skidded,Did not impact,2005.0
+1634,200501CW10642,46 - 55,2.0,Data missing or out of range,MERCEDES,Male,,Did not impact,2005.0
+1635,200501CW10643,,,,,,,,
+1636,200501CW10644,,,,,,,,
+1637,200501CW10645,36 - 45,4.0,Urban area,RENAULT,Male,,Back,2005.0
+1638,200501CW10646,,,,,,,,
+1639,200501CW10647,,,,,,,,
+1640,200501CW10648,,,,,,,,
+1641,200501CW10650,,,,,,,,
+1642,200501CW10651,56 - 65,3.0,Urban area,DENNIS,Male,,Front,2005.0
+1643,200501CW10652,,,,,,,,
+1644,200501CW10653,,,,,,,,
+1645,200501CW10654,46 - 55,3.0,Data missing or out of range,LONDON TAXIS INT,Male,,Front,2005.0
+1646,200501CW10654,Data missing or out of range,4.0,Data missing or out of range,PIAGGIO,Male,,Did not impact,2005.0
+1647,200501CW10655,,,,,,,,
+1648,200501CW10656,,,,,,,,
+1649,200501CW10657,,,,,,,,
+1650,200501CW10658,66 - 75,1.0,Urban area,MERCEDES,Male,,Offside,2005.0
+1651,200501CW10659,,,,,,,,
+1652,200501CW10660,56 - 65,1.0,Urban area,MERCEDES,Male,,Did not impact,2005.0
+1653,200501CW10661,Data missing or out of range,13.0,Data missing or out of range,ROVER,Male,,Front,2005.0
+1654,200501CW10663,46 - 55,4.0,Urban area,BMW,Female,,Front,2005.0
+1655,200501CW10664,,,,,,,,
+1656,200501CW10665,36 - 45,8.0,Urban area,SAAB,Female,,Nearside,2005.0
+1657,200501CW10666,,,,,,,,
+1658,200501CW10667,46 - 55,,Urban area,DAF,Male,,Front,2005.0
+1659,200501CW10669,,,,,,,,
+1660,200501CW10670,,,,,,,,
+1661,200501CW10672,,,,,,,,
+1662,200501CW10674,36 - 45,8.0,Urban area,TOYOTA,Male,,Nearside,2005.0
+1663,200501CW10675,46 - 55,3.0,Urban area,MERCEDES,Male,,Did not impact,2005.0
+1664,200501CW10676,21 - 25,2.0,Urban area,DENNIS,Male,,Offside,2005.0
+1665,200501CW10676,36 - 45,1.0,Urban area,DAF,Male,,Front,2005.0
+1666,200501CW10677,36 - 45,6.0,Urban area,BMW,Male,,Nearside,2005.0
+1667,200501CW10678,36 - 45,,Urban area,TOYOTA,Female,,Offside,2005.0
+1668,200501CW10679,46 - 55,1.0,Urban area,VOLKSWAGEN,Male,,Offside,2005.0
+1669,200501CW10680,36 - 45,7.0,Urban area,LONDON TAXIS INT,Male,,Front,2005.0
+1670,200501CW10681,,,,,,,,
+1671,200501CW10683,,,,,,,,
+1672,200501CW10684,,,,,,,,
+1673,200501CW10686,,,,,,,,
+1674,200501CW10688,,,,,,,,
+1675,200501CW10692,,,,,,,,
+1676,200501CW10693,,,,,,,,
+1677,200501CW10694,56 - 65,3.0,Urban area,DENNIS,Male,,Did not impact,2005.0
+1678,200501CW10695,,,,,,,,
+1679,200501CW10696,21 - 25,1.0,Data missing or out of range,TAIWAN GOLDEN BEE,Male,,Offside,2005.0
+1680,200501CW10697,Data missing or out of range,2.0,Data missing or out of range,FORD,Male,,Nearside,2005.0
+1681,200501CW10698,,,,,,,,
+1682,200501CW10699,Data missing or out of range,1.0,Urban area,VAUXHALL,Male,,Offside,2005.0
+1683,200501CW10700,21 - 25,2.0,Urban area,VOLVO,Male,,Did not impact,2005.0
+1684,200501CW10701,,,,,,,,
+1685,200501CW10702,,,,,,,,
+1686,200501CW10703,,,,,,,,
+1687,200501CW10705,,,,,,,,
+1688,200501CW10706,,,,,,,,
+1689,200501CW10707,,,,,,,,
+1690,200501CW10708,,,,,,,,
+1691,200501CW10709,,,,,,,,
+1692,200501CW10710,,,,,,,,
+1693,200501CW10711,26 - 35,5.0,Urban area,HYUNDAI,Male,,Did not impact,2005.0
+1694,200501CW10712,,,,,,,,
+1695,200501CW10713,,,,,,,,
+1696,200501CW10714,,,,,,,,
+1697,200501CW10715,,,,,,,,
+1698,200501CW10717,36 - 45,2.0,Urban area,HONDA,Male,,Back,2005.0
+1699,200501CW10718,,,,,,,,
+1700,200501CW10719,,,,,,,,
+1701,200501CW10720,Data missing or out of range,7.0,Data missing or out of range,LONDON TAXIS INT,Male,,Nearside,2005.0
+1702,200501CW10721,26 - 35,,Urban area,HONDA,Male,,Front,2005.0
+1703,200501CW10722,21 - 25,4.0,Data missing or out of range,LEYLAND AEC,Male,,Did not impact,2005.0
+1704,200501CW10724,,,,,,,,
+1705,200501CW10725,,,,,,,,
+1706,200501CW10726,,,,,,,,
+1707,200501CW10727,,,,,,,,
+1708,200501CW10728,26 - 35,4.0,Urban area,DUCATI,Male,,Front,2005.0
+1709,200501CW10729,,,,,,,,
+1710,200501CW10730,26 - 35,1.0,Urban area,SKODA,Male,,Nearside,2005.0
+1711,200501CW10731,56 - 65,6.0,Urban area,LONDON TAXIS INT,Male,,Nearside,2005.0
+1712,200501CW10732,36 - 45,,Urban area,CHEVROLET,Male,,Offside,2005.0
+1713,200501CW10733,,,,,,,,
+1714,200501CW10735,56 - 65,2.0,Urban area,MERCEDES,Male,,Front,2005.0
+1715,200501CW10735,56 - 65,9.0,Data missing or out of range,MERCEDES,Male,,Nearside,2005.0
+1716,200501CW10736,36 - 45,9.0,Urban area,BMW,Male,,Offside,2005.0
+1717,200501CW10737,Data missing or out of range,1.0,Urban area,TOYOTA,Female,,Offside,2005.0
+1718,200501CW10738,56 - 65,2.0,Data missing or out of range,MERCEDES,Male,,Did not impact,2005.0
+1719,200501CW10739,,,,,,,,
+1720,200501CW10740,,,,,,,,
+1721,200501CW10741,,,,,,,,
+1722,200501CW10742,36 - 45,5.0,Urban area,FORD,Male,,Front,2005.0
+1723,200501CW10742,56 - 65,6.0,Urban area,FODEN,Male,,Back,2005.0
+1724,200501CW10744,46 - 55,,Urban area,MERCEDES,Male,Skidded,Offside,2005.0
+1725,200501CW10745,,,,,,,,
+1726,200501CW10746,,,,,,,,
+1727,200501CW10747,26 - 35,2.0,Urban area,HONDA,Male,,Did not impact,2005.0
+1728,200501CW10748,16 - 20,11.0,Urban area,MITSUBISHI,Female,Skidded,Front,2005.0
+1729,200501CW10749,26 - 35,3.0,Urban area,LONDON TAXIS INT,Male,,Offside,2005.0
+1730,200501CW10749,26 - 35,8.0,Data missing or out of range,SUZUKI,Male,,Nearside,2005.0
+1731,200501CW10750,,,,,,,,
+1732,200501CW10751,56 - 65,2.0,Urban area,DENNIS,Male,,Nearside,2005.0
+1733,200501CW10752,,,,,,,,
+1734,200501CW10753,,,,,,,,
+1735,200501CW10754,66 - 75,9.0,Urban area,TOYOTA,Male,,Offside,2005.0
+1736,200501CW10755,,,,,,,,
+1737,200501CW10756,21 - 25,5.0,Data missing or out of range,DENNIS,Male,,Front,2005.0
+1738,200501CW10757,26 - 35,2.0,Urban area,VOLKSWAGEN,Male,,Offside,2005.0
+1739,200501CW10758,46 - 55,1.0,Urban area,MERCEDES,Male,,Nearside,2005.0
+1740,200501CW10760,,,,,,,,
+1741,200501CW10761,56 - 65,2.0,Urban area,MERCEDES,Male,,Nearside,2005.0
+1742,200501CW10762,36 - 45,7.0,Urban area,MERCEDES,Male,,Offside,2005.0
+1743,200501CW10763,,,,,,,,
+1744,200501CW10764,,,,,,,,
+1745,200501CW10765,36 - 45,5.0,Urban area,TRIUMPH,Male,,Nearside,2005.0
+1746,200501CW10765,36 - 45,1.0,Urban area,LONDON TAXIS INT,Male,,Offside,2005.0
+1747,200501CW10766,36 - 45,3.0,Urban area,MERCEDES,Male,,Did not impact,2005.0
+1748,200501CW10767,46 - 55,2.0,Urban area,DAF,Male,,Did not impact,2005.0
+1749,200501CW10768,,,,,,,,
+1750,200501CW10769,,,,,,,,
+1751,200501CW10771,46 - 55,3.0,Urban area,HONDA,Male,,Front,2005.0
+1752,200501CW10772,,,,,,,,
+1753,200501CW10773,,,,,,,,
+1754,200501CW10774,36 - 45,3.0,Urban area,LONDON TAXIS INT,Male,,Nearside,2005.0
+1755,200501CW10774,36 - 45,16.0,Urban area,KAWASAKI,Male,,Offside,2005.0
+1756,200501CW10775,,,,,,,,
+1757,200501CW10776,,,,,,,,
+1758,200501CW10777,,,,,,,,
+1759,200501CW10778,,,,,,,,
+1760,200501CW10779,36 - 45,11.0,Urban area,HONDA,Male,,Offside,2005.0
+1761,200501CW10781,16 - 20,4.0,Urban area,RENAULT,Female,,Front,2005.0
+1762,200501CW10782,26 - 35,42.0,Urban area,LEYLAND AEC,Male,,Did not impact,2005.0
+1763,200501CW10783,26 - 35,10.0,Urban area,FORD,Male,,Back,2005.0
+1764,200501CW10784,56 - 65,2.0,Urban area,RENAULT,Male,,Back,2005.0
+1765,200501CW10785,,,,,,,,
+1766,200501CW10786,26 - 35,7.0,Data missing or out of range,HONDA,Male,,Nearside,2005.0
+1767,200501CW10787,,,,,,,,
+1768,200501CW10788,36 - 45,8.0,Data missing or out of range,VOLKSWAGEN,Male,,Front,2005.0
+1769,200501CW10789,36 - 45,6.0,Urban area,HONDA,Male,,Offside,2005.0
+1770,200501CW10790,36 - 45,40.0,Urban area,LEYLAND AEC,Male,,Did not impact,2005.0
+1771,200501CW10791,36 - 45,1.0,Urban area,CITROEN,Male,,Nearside,2005.0
+1772,200501CW10793,,,,,,,,
+1773,200501CW10794,,,,,,,,
+1774,200501CW10796,56 - 65,3.0,Urban area,LONDON TAXIS INT,Male,,Nearside,2005.0
+1775,200501CW10797,,,,,,,,
+1776,200501CW10798,36 - 45,3.0,Data missing or out of range,LONDON TAXIS INT,Male,,Front,2005.0
+1777,200501CW10799,21 - 25,4.0,Urban area,VOLVO,Male,,Nearside,2005.0
+1778,200501CW10800,,,,,,,,
+1779,200501CW10801,26 - 35,,Urban area,BMW,Male,Skidded,Front,2005.0
+1780,200501CW10804,36 - 45,6.0,Urban area,LONDON TAXIS INT,Male,,Front,2005.0
+1781,200501CW10805,46 - 55,6.0,Urban area,LONDON TAXIS INT,Male,,Front,2005.0
+1782,200501CW10806,,,,,,,,
+1783,200501CW10808,,,,,,,,
+1784,200501CW10809,,,,,,,,
+1785,200501CW10810,,,,,,,,
+1786,200501CW10811,,,,,,,,
+1787,200501CW10812,,,,,,,,
+1788,200501CW10813,26 - 35,3.0,Urban area,VOLKSWAGEN,Male,,Nearside,2005.0
+1789,200501CW10814,26 - 35,1.0,Data missing or out of range,FIAT,Male,,Offside,2005.0
+1790,200501CW10816,,,,,,,,
+1791,200501CW10817,,,,,,,,
+1792,200501CW10818,,,,,,,,
+1793,200501CW10819,Data missing or out of range,1.0,Urban area,VAUXHALL,Male,,Back,2005.0
+1794,200501CW10820,,,,,,,,
+1795,200501CW10821,,,,,,,,
+1796,200501CW10822,,,,,,,,
+1797,200501CW10823,,,,,,,,
+1798,200501CW10824,,,,,,,,
+1799,200501CW10825,26 - 35,4.0,Urban area,PIAGGIO,Female,Skidded,Did not impact,2005.0
+1800,200501CW10826,26 - 35,13.0,Urban area,YAMAHA,Male,,Nearside,2005.0
+1801,200501CW10827,36 - 45,3.0,Urban area,SUZUKI,Male,,Front,2005.0
+1802,200501CW10828,,,,,,,,
+1803,200501CW10829,,,,,,,,
+1804,200501CW10830,,,,,,,,
+1805,200501CW10831,,,,,,,,
+1806,200501CW10832,,,,,,,,
+1807,200501CW10833,,,,,,,,
+1808,200501CW10834,,,,,,,,
+1809,200501CW10836,36 - 45,7.0,Urban area,VAUXHALL,Female,,Front,2005.0
+1810,200501CW10836,26 - 35,,Urban area,RENAULT,Male,,Front,2005.0
+1811,200501CW10837,,,,,,,,
+1812,200501CW10838,26 - 35,,Urban area,VOLVO,Male,,Front,2005.0
+1813,200501CW10840,56 - 65,1.0,Urban area,LONDON TAXIS INT,Male,,Front,2005.0
+1814,200501CW10841,,,,,,,,
+1815,200501CW10842,,,,,,,,
+1816,200501CW10843,66 - 75,5.0,Urban area,MERCEDES,Male,,Nearside,2005.0
+1817,200501CW10844,36 - 45,4.0,Urban area,TOYOTA,Female,,Front,2005.0
+1818,200501CW10846,21 - 25,10.0,Data missing or out of range,VOLVO,Male,,Back,2005.0
+1819,200501CW10846,Data missing or out of range,6.0,Data missing or out of range,VAUXHALL,Male,,Front,2005.0
+1820,200501CW10846,Data missing or out of range,,Data missing or out of range,VOLVO,Male,,Front,2005.0
+1821,200501CW10847,,,,,,,,
+1822,200501CW10848,,,,,,,,
+1823,200501CW10849,,,,,,,,
+1824,200501CW10850,,,,,,,,
+1825,200501CW10851,,,,,,,,
+1826,200501CW10852,,,,,,,,
+1827,200501CW10853,21 - 25,6.0,Rural,LONDON TAXIS INT,Male,,Front,2005.0
+1828,200501CW10854,36 - 45,,Urban area,JAGUAR,Male,,Offside,2005.0
+1829,200501CW10855,,,,,,,,
+1830,200501CW10856,21 - 25,5.0,Data missing or out of range,MERCEDES,Male,,Front,2005.0
+1831,200501CW10857,46 - 55,2.0,Urban area,VOLKSWAGEN,Female,,Offside,2005.0
+1832,200501CW10858,26 - 35,21.0,Data missing or out of range,LEYLAND,Male,,Front,2005.0
+1833,200501CW10860,56 - 65,4.0,Data missing or out of range,FORD,Male,,Offside,2005.0
+1834,200501CW10860,36 - 45,1.0,Rural,GILERA,Male,,Front,2005.0
+1835,200501CW10861,26 - 35,6.0,Urban area,VAUXHALL,Male,,Nearside,2005.0
+1836,200501CW10862,,,,,,,,
+1837,200501CW10863,36 - 45,4.0,Urban area,IVECO-FORD,Male,,Back,2005.0
+1838,200501CW10864,36 - 45,2.0,Urban area,VOLVO,Male,,Offside,2005.0
+1839,200501CW10865,26 - 35,,Urban area,YAMAHA,Male,,Front,2005.0
+1840,200501CW10866,,,,,,,,
+1841,200501CW10869,21 - 25,3.0,Urban area,LAND ROVER,Male,,Offside,2005.0
+1842,200501CW10869,36 - 45,3.0,Urban area,KAWASAKI,Male,,Front,2005.0
+1843,200501CW10870,,,,,,,,
+1844,200501CW10872,,,,,,,,
+1845,200501CW10873,21 - 25,1.0,Small town,FORD,Male,,Nearside,2005.0
+1846,200501CW10875,36 - 45,6.0,Data missing or out of range,VOLKSWAGEN,Female,,Back,2005.0
+1847,200501CW10876,26 - 35,,Urban area,SAAB,Male,,Offside,2005.0
+1848,200501CW10877,,,,,,,,
+1849,200501CW10878,,,,,,,,
+1850,200501CW10879,,,,,,,,
+1851,200501CW10880,Data missing or out of range,4.0,Data missing or out of range,HYUNDAI,Male,,Nearside,2005.0
+1852,200501CW10881,,,,,,,,
+1853,200501CW10884,66 - 75,,Urban area,LONDON TAXIS INT,Male,,Back,2005.0
+1854,200501CW10885,,,,,,,,
+1855,200501CW10886,,,,,,,,
+1856,200501CW10887,36 - 45,3.0,Urban area,DENNIS,Female,,Front,2005.0
+1857,200501CW10888,,,,,,,,
+1858,200501CW10889,36 - 45,7.0,Urban area,ROVER,Male,,Did not impact,2005.0
+1859,200501CW10890,,,,,,,,
+1860,200501CW10894,,,,,,,,
+1861,200501CW10895,,,,,,,,
+1862,200501CW10896,36 - 45,7.0,Urban area,LONDON TAXIS INT,Male,,Back,2005.0
+1863,200501CW10896,21 - 25,10.0,Urban area,SCANIA,Male,,Front,2005.0
+1864,200501CW10897,36 - 45,3.0,Data missing or out of range,DENNIS,Male,,Did not impact,2005.0
+1865,200501CW10898,16 - 20,1.0,Urban area,VAUXHALL,Male,,Front,2005.0
+1866,200501CW10898,21 - 25,1.0,Urban area,HARLEY-DAVIDSON,Male,,Offside,2005.0
+1867,200501CW10899,,,,,,,,
+1868,200501CW10900,26 - 35,3.0,Urban area,MAZDA,Female,,Offside,2005.0
+1869,200501CW10900,Data missing or out of range,1.0,Data missing or out of range,MAN,Not known,,Nearside,2005.0
+1870,200501CW10901,,,,,,,,
+1871,200501CW10902,Data missing or out of range,6.0,Data missing or out of range,LONDON TAXIS INT,Male,,Offside,2005.0
+1872,200501CW10903,46 - 55,5.0,Data missing or out of range,METROCAB,Male,,Front,2005.0
+1873,200501CW10907,,,,,,,,
+1874,200501CW10908,,,,,,,,
+1875,200501CW10909,36 - 45,2.0,Urban area,VOLVO,Female,,Back,2005.0
+1876,200501CW10910,Data missing or out of range,5.0,Urban area,HONDA,Male,,Nearside,2005.0
+1877,200501CW10911,56 - 65,,Urban area,LONDON TAXIS INT,Male,,Did not impact,2005.0
+1878,200501CW10912,,,,,,,,
+1879,200501CW10913,,,,,,,,
+1880,200501CW10916,Data missing or out of range,20.0,Urban area,MCW,Male,,Did not impact,2005.0
+1881,200501CW10917,56 - 65,42.0,Urban area,LEYLAND AEC,Male,,Did not impact,2005.0
+1882,200501CW10918,,,,,,,,
+1883,200501CW10919,,,,,,,,
+1884,200501CW10920,,,,,,,,
+1885,200501CW10923,,,,,,,,
+1886,200501CW10924,26 - 35,8.0,Urban area,MERCEDES,Male,,Front,2005.0
+1887,200501CW10925,,,,,,,,
+1888,200501CW10926,,,,,,,,
+1889,200501CW10927,36 - 45,5.0,Urban area,HONDA,Male,,Offside,2005.0
+1890,200501CW10928,,,,,,,,
+1891,200501CW10929,36 - 45,2.0,Urban area,VOLVO,Male,,Front,2005.0
+1892,200501CW10930,26 - 35,,Urban area,VOLKSWAGEN,Female,,Front,2005.0
+1893,200501CW10932,,,,,,,,
+1894,200501CW10933,36 - 45,,Urban area,RENAULT,Female,,Nearside,2005.0
+1895,200501CW10934,,,,,,,,
+1896,200501CW10935,26 - 35,6.0,Data missing or out of range,HONDA,Male,,Back,2005.0
+1897,200501CW10936,,,,,,,,
+1898,200501CW10937,26 - 35,4.0,Urban area,LEYLAND AEC,Male,,Did not impact,2005.0
+1899,200501CW10938,,,,,,,,
+1900,200501CW10939,,,,,,,,
+1901,200501CW10940,21 - 25,1.0,Urban area,DAF,Male,,Nearside,2005.0
+1902,200501CW10941,26 - 35,,Urban area,AUDI,Male,,Front,2005.0
+1903,200501CW10944,66 - 75,2.0,Urban area,NISSAN,Female,,Front,2005.0
+1904,200501CW10946,36 - 45,,Urban area,VOLVO,Male,,Front,2005.0
+1905,200501CW10947,46 - 55,1.0,Rural,LONDON TAXIS INT,Male,,Offside,2005.0
+1906,200501CW10948,,,,,,,,
+1907,200501CW10949,36 - 45,,Urban area,DAF,Male,,Did not impact,2005.0
+1908,200501CW10950,,,,,,,,
+1909,200501CW10951,46 - 55,1.0,Data missing or out of range,SCANIA,Male,,Nearside,2005.0
+1910,200501CW10952,36 - 45,1.0,Data missing or out of range,VOLVO,Male,,Front,2005.0
+1911,200501CW10953,,,,,,,,
+1912,200501CW10954,,,,,,,,
+1913,200501CW10956,,,,,,,,
+1914,200501CW10957,26 - 35,1.0,Urban area,BMW,Male,,Front,2005.0
+1915,200501CW10957,36 - 45,1.0,Urban area,PIAGGIO,Male,,Nearside,2005.0
+1916,200501CW10958,,,,,,,,
+1917,200501CW10959,46 - 55,3.0,Small town,BMW,Female,,Nearside,2005.0
+1918,200501CW10959,36 - 45,11.0,Urban area,BMW,Male,,Offside,2005.0
+1919,200501CW10961,,,,,,,,
+1920,200501CW10962,,,,,,,,
+1921,200501CW10963,46 - 55,,Urban area,SEAT,Male,,Nearside,2005.0
+1922,200501CW10964,,,,,,,,
+1923,200501CW10965,,,,,,,,
+1924,200501CW10966,,,,,,,,
+1925,200501CW10967,36 - 45,2.0,Urban area,MERCEDES,Male,,Front,2005.0
+1926,200501CW10968,,,,,,,,
+1927,200501CW10969,Data missing or out of range,1.0,Urban area,MERCEDES,Male,,Front,2005.0
+1928,200501CW10970,46 - 55,,Urban area,LONDON TAXIS INT,Male,,Nearside,2005.0
+1929,200501CW10971,Data missing or out of range,2.0,Urban area,DENNIS,Male,,Did not impact,2005.0
+1930,200501CW10973,,,,,,,,
+1931,200501CW10974,56 - 65,2.0,Urban area,LONDON TAXIS INT,Male,,Back,2005.0
+1932,200501CW10974,Data missing or out of range,15.0,Urban area,HONDA,Male,,Front,2005.0
+1933,200501CW10975,26 - 35,1.0,Data missing or out of range,TRANSBUS INT,Male,,Did not impact,2005.0
+1934,200501CW10977,,,,,,,,
+1935,200501CW10978,36 - 45,6.0,Urban area,LONDON TAXIS INT,Male,,Nearside,2005.0
+1936,200501CW10979,,,,,,,,
+1937,200501CW10980,,,,,,,,
+1938,200501CW10981,,,,,,,,
+1939,200501CW10983,Data missing or out of range,,Data missing or out of range,VOLVO,Male,,Front,2005.0
+1940,200501CW10984,,,,,,,,
+1941,200501CW10985,46 - 55,1.0,Urban area,CHRYSLER,Male,,Back,2005.0
+1942,200501CW10986,,,,,,,,
+1943,200501CW10987,,,,,,,,
+1944,200501CW10989,,,,,,,,
+1945,200501CW10990,,,,,,,,
+1946,200501CW10991,Data missing or out of range,2.0,Data missing or out of range,DENNIS,Male,,Did not impact,2005.0
+1947,200501CW10992,,,,,,,,
+1948,200501CW10993,Data missing or out of range,3.0,Data missing or out of range,AUDI,Male,,Front,2005.0
+1949,200501CW10995,36 - 45,,Urban area,SUZUKI,Male,,Offside,2005.0
+1950,200501CW10996,26 - 35,,Urban area,PIAGGIO,Male,,Offside,2005.0
+1951,200501CW10997,,,,,,,,
+1952,200501CW10999,,,,,,,,
+1953,200501CW11000,,,,,,,,
+1954,200501CW11002,,,,,,,,
+1955,200501CW11003,21 - 25,2.0,Data missing or out of range,FORD,Male,,Offside,2005.0
+1956,200501CW11004,26 - 35,15.0,Urban area,HONDA,Male,,Front,2005.0
+1957,200501CW11006,,,,,,,,
+1958,200501CW11007,26 - 35,,Urban area,PIAGGIO,Female,,Front,2005.0
+1959,200501CW11008,36 - 45,,Urban area,VAUXHALL,Male,,Offside,2005.0
+1960,200501CW11008,56 - 65,2.0,Urban area,IRIS.BUS,Male,,Nearside,2005.0
+1961,200501CW11009,36 - 45,,Urban area,PIAGGIO,Female,,Did not impact,2005.0
+1962,200501CW11010,,,,,,,,
+1963,200501CW11011,36 - 45,,Urban area,HONDA,Male,,Front,2005.0
+1964,200501CW11013,46 - 55,2.0,Urban area,MERCEDES,Male,,Did not impact,2005.0
+1965,200501CW11015,,,,,,,,
+1966,200501CW11016,,,,,,,,
+1967,200501CW11017,26 - 35,5.0,Data missing or out of range,DENNIS,Male,,Did not impact,2005.0
+1968,200501CW11018,,,,,,,,
+1969,200501CW11020,26 - 35,4.0,Rural,KAWASAKI,Male,,Front,2005.0
+1970,200501CW11021,26 - 35,,Urban area,VAUXHALL,Male,,Back,2005.0
+1971,200501CW11022,36 - 45,1.0,Urban area,KIA,Male,,Nearside,2005.0
+1972,200501CW11023,,,,,,,,
+1973,200501CW11024,,,,,,,,
+1974,200501CW11025,Data missing or out of range,14.0,Urban area,NISSAN,Female,,Front,2005.0
+1975,200501CW11026,,,,,,,,
+1976,200501CW11027,,,,,,,,
+1977,200501CW11028,21 - 25,8.0,Urban area,VAUXHALL,Male,,Front,2005.0
+1978,200501CW11029,46 - 55,4.0,Data missing or out of range,LONDON TAXIS INT,Male,,Nearside,2005.0
+1979,200501CW11032,26 - 35,,Urban area,AUDI,Male,,Offside,2005.0
+1980,200501CW11033,36 - 45,3.0,Urban area,MERCEDES,Female,,Front,2005.0
+1981,200501CW11034,Data missing or out of range,1.0,Urban area,VOLVO,Male,,Did not impact,2005.0
+1982,200501CW11034,Data missing or out of range,,Data missing or out of range,VAUXHALL,Not known,,Did not impact,2005.0
+1983,200501CW11035,26 - 35,40.0,Urban area,LEYLAND AEC,Male,,Nearside,2005.0
+1984,200501CW11036,,,,,,,,
+1985,200501CW11037,,,,,,,,
+1986,200501CW11039,,,,,,,,
+1987,200501CW11040,26 - 35,9.0,Urban area,YAMAHA,Male,,Offside,2005.0
+1988,200501CW11041,36 - 45,,Urban area,MERCEDES,Male,,Nearside,2005.0
+1989,200501CW11041,26 - 35,2.0,Urban area,PIAGGIO,Female,,Offside,2005.0
+1990,200501CW11042,,,,,,,,
+1991,200501CW11043,,,,,,,,
+1992,200501CW11044,56 - 65,7.0,Urban area,LONDON TAXIS INT,Male,,Front,2005.0
+1993,200501CW11045,,,,,,,,
+1994,200501CW11046,,,,,,,,
+1995,200501CW11047,36 - 45,,Urban area,LONDON TAXIS INT,Male,,Front,2005.0
+1996,200501CW11048,,,,,,,,
+1997,200501CW11049,26 - 35,,Data missing or out of range,VOLVO,Male,,Did not impact,2005.0
+1998,200501CW11050,,,,,,,,
+1999,200501CW11051,,,,,,,,
