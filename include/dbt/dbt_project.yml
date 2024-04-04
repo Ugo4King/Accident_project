@@ -1,6 +1,9 @@
 
 name: 'retail'
 
+config-version: 2
+version: 1.0  # Replace 'version' with the actual version number of your dbt project
+
 profile: 'retail'
 
 models:

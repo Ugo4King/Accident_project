@@ -6,7 +6,7 @@ from pathlib import Path
 DBT_CONFIG = ProfileConfig(
     profile_name='retail',
     target_name='dev',
-    profiles_yml_filepath=Path('/usr/local/airflow/include/dbt/profiles.yml')
+    profiles_yml_filepath=Path('/usr/local/airflow/include/dbt/dbt_project.yml')
 )
 
 DBT_PROJECT_CONFIG = ProjectConfig(
